@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhim</h1>
 <h3 align="center">Ex-Associate Data Scientist @ TCS · 3.7 Yrs | MCA (AI/ML) | Aspiring ML Engineer 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;AI+%7C+Deep+Learning+%7C+NLP;Always+Learning+%7C+Always+Building+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -19,9 +15,11 @@
 
 ---
 
-## 🧠 Skill Landscape *(Inspired by the Agentic AI Framework)*
+# 🧠 Skill Landscape *(Inspired by the Agentic AI Framework)*
 
-### 🔵 Layer 1 — AI & ML Foundation
+---
+
+## 🔵 Layer 1 — AI & ML Foundation
 > *"Turn your data into decisions"*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,15 +30,16 @@
 
 | Skill | Details |
 |-------|---------|
-| 🔷 Supervised Learning | Linear Regression, Logistic Regression, Decision Trees, SVM |
-| 🔷 Unsupervised Learning | K-Means, DBSCAN, PCA, Dimensionality Reduction |
+| 🔷 Supervised Learning | Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM |
+| 🔷 Unsupervised Learning | K-Means, DBSCAN, PCA, Clustering & Dimensionality Reduction |
 | 🔷 NLP | Tokenization, TF-IDF, Naive Bayes, NLTK, Text Classification |
 | 🔷 Feature Engineering | EDA, Data Cleaning, Preprocessing Pipelines |
 | 🔷 Model Evaluation | Cross-Validation, ROC-AUC, Confusion Matrix, F1 Score |
+| 🔷 Data Visualization | Matplotlib, Seaborn, Plotly |
 
 ---
 
-### 🟢 Layer 2 — Deep Learning
+## 🟢 Layer 2 — Deep Learning
 > *"Multi-layered neural networks for complex tasks"*
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -50,14 +49,15 @@
 | Skill | Details |
 |-------|---------|
 | 🧠 CNNs | Image Classification, Feature Extraction |
-| 🔁 RNNs & LSTMs | Sequential Data, Time Series, Text Generation |
+| 🔁 RNNs & LSTMs | Sequential Data, Time Series Forecasting, Text Generation |
 | 🌐 Transformers | Attention Mechanisms, BERT, Transfer Learning |
 | 🔗 Deep Belief Networks | Generative Modeling Basics |
+| 📈 Neural Network Optimization | Dropout, Batch Normalization, Hyperparameter Tuning |
 
 ---
 
-### 🟡 Layer 3 — Generative AI
-> *"Create New Content"*
+## 🟡 Layer 3 — Generative AI
+> *"Create New Content with AI"*
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -67,13 +67,14 @@
 |-------|---------|
 | 💬 LLMs | Large Language Models, Prompt Engineering |
 | 🔍 RAG | Retrieval-Augmented Generation Systems |
-| 🎨 Multimodal | Text + Image Generation |
+| 🎨 Multimodal AI | Text + Image Generation |
 | 🛡️ Hallucination Mitigation | Output Validation, Guardrails |
-| 🛠️ Tool Use & Function Calling | LLM + API Integration |
+| 🛠️ Tool Use & Function Calling | API Integration with LLMs |
+| 📚 Vector Databases | FAISS, ChromaDB, Pinecone Basics |
 
 ---
 
-### 🟠 Layer 4 — AI Agents
+## 🟠 Layer 4 — AI Agents
 > *"Autonomous Task Execution"*
 
 | Skill | Details |
@@ -81,13 +82,13 @@
 | 🤖 Agent Frameworks | ReAct, Chain-of-Thought (CoT), Tree-of-Thought (ToT) |
 | 🔧 Tool Orchestration | Actions, Plugins, API Integration |
 | 🗂️ Planning & Decomposition | Goal Decomposition, Task Scheduling |
-| 💾 Memory Systems | Short-term & Long-term Memory in Agents |
+| 💾 Memory Systems | Short-term & Long-term Agent Memory |
 | 👁️ Human-in-the-Loop | Oversight, Feedback, Error Recovery |
 
 ---
 
-### 🔴 Layer 5 — Agentic AI *(Learning & Building)*
-> *"Automate entire processes with automation"*
+## 🔴 Layer 5 — Agentic AI *(Learning & Building)*
+> *"Automate Entire Processes with AI Automation"*
 
 | Skill | Details |
 |-------|---------|
@@ -95,23 +96,49 @@
 | 📋 Agent Management | Scheduling, Rollback, Feedback Loops |
 | 🌐 Observability | Tracing, Monitoring, Logging |
 | ⚖️ Governance | Safety, Guardrails, Risk Management |
+| 🚀 Workflow Automation | AI Pipelines & Autonomous Execution |
 
 ---
 
-## 🛠️ Tools & Technologies
+# ☁️ Cloud & DevOps
 
-### ☁️ MLOps & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 🗄️ Data & Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+| Skill | Details |
+|-------|---------|
+| ☁️ Cloud Platforms | AWS, Google Cloud Platform (GCP), Microsoft Azure |
+| 🐳 Containerization | Docker Basics & Deployment |
+| 🔄 Version Control | Git & GitHub Workflow |
+| 🚀 Deployment | Model Deployment & Hosting |
+| 📦 CI/CD Basics | Automation & Continuous Integration |
+
+---
+
+# 🛠️ Tools & Technologies
+
+### 🧪 Development & Experimentation
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
+### 🗄️ Databases & Data Tools
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+| Tool | Usage |
+|------|--------|
+| 🗄️ SQL | Data Querying & Management |
+| 📊 MLflow | Experiment Tracking & Model Lifecycle |
+| 📓 Jupyter Notebook | ML Experimentation & Research |
+| 🧠 Kaggle | Datasets & Model Practice |
+| 💻 VS Code | Development Environment |
+
+---
 ---
 
 ## 🚀 Featured Projects
@@ -122,7 +149,6 @@
 | 🏠 [House Price Predictor](https://github.com/) | California Housing dataset regression model | Python, Linear Regression, Scikit-learn |
 | 🤖 *More Coming Soon...* | RAG System, LLM Agent, MLOps Pipeline | LangChain, Docker, MLflow |
 
-> ⭐ *Replace the GitHub links above with your actual repo URLs*
 
 ---
 
@@ -137,7 +163,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhimAIEngineer&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-> ⭐ *Replace `YOUR_USERNAME` with your actual GitHub username*
 
 ---
 
@@ -149,7 +174,6 @@
   </a>
 </p>
 
-> ⭐ *Replace with your actual Kaggle profile link*
 
 ---
 
