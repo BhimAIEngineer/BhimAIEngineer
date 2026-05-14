@@ -15,6 +15,22 @@
 
 ---
 
+# 🌟 Portfolio Overview
+
+💡 Passionate about building intelligent systems using  
+Machine Learning, Deep Learning, Generative AI, and Agentic AI.
+
+📚 Currently exploring:
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Automation
+- Cloud & MLOps Technologies
+
+🎯 Goal:
+To build scalable AI-powered applications that automate real-world problems using modern AI frameworks.
+
+---
+
 # 🧠 Skill Landscape *(Inspired by the Agentic AI Framework)*
 
 ---
@@ -22,123 +38,113 @@
 ## 🔵 Layer 1 — AI & ML Foundation
 > *"Turn your data into decisions"*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+<p align="left">
 
-| Skill | Details |
-|-------|---------|
-| 🔷 Supervised Learning | Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM |
-| 🔷 Unsupervised Learning | K-Means, DBSCAN, PCA, Clustering & Dimensionality Reduction |
-| 🔷 NLP | Tokenization, TF-IDF, Naive Bayes, NLTK, Text Classification |
-| 🔷 Feature Engineering | EDA, Data Cleaning, Preprocessing Pipelines |
-| 🔷 Model Evaluation | Cross-Validation, ROC-AUC, Confusion Matrix, F1 Score |
-| 🔷 Data Visualization | Matplotlib, Seaborn, Plotly |
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+| Skill | Expertise |
+|-------|------------|
+| 🔷 Supervised Learning | Regression, Classification, SVM, Decision Trees |
+| 🔷 Unsupervised Learning | Clustering, PCA, DBSCAN |
+| 🔷 NLP | Tokenization, TF-IDF, Text Classification |
+| 🔷 Feature Engineering | EDA, Data Cleaning, Pipelines |
+| 🔷 Model Evaluation | ROC-AUC, Cross Validation, F1 Score |
 
 ---
 
 ## 🟢 Layer 2 — Deep Learning
-> *"Multi-layered neural networks for complex tasks"*
+> *"Neural networks for intelligent systems"*
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+<p align="left">
 
-| Skill | Details |
-|-------|---------|
-| 🧠 CNNs | Image Classification, Feature Extraction |
-| 🔁 RNNs & LSTMs | Sequential Data, Time Series Forecasting, Text Generation |
-| 🌐 Transformers | Attention Mechanisms, BERT, Transfer Learning |
-| 🔗 Deep Belief Networks | Generative Modeling Basics |
-| 📈 Neural Network Optimization | Dropout, Batch Normalization, Hyperparameter Tuning |
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+</p>
+
+| Skill | Expertise |
+|-------|------------|
+| 🧠 CNNs | Image Classification & Feature Extraction |
+| 🔁 RNNs & LSTMs | Sequential & Time-Series Data |
+| 🌐 Transformers | BERT, Attention Mechanisms |
+| 📈 Optimization | Hyperparameter Tuning, Regularization |
 
 ---
 
 ## 🟡 Layer 3 — Generative AI
-> *"Create New Content with AI"*
+> *"Create intelligent AI-powered content"*
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<p align="left">
 
-| Skill | Details |
-|-------|---------|
-| 💬 LLMs | Large Language Models, Prompt Engineering |
-| 🔍 RAG | Retrieval-Augmented Generation Systems |
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</p>
+
+| Skill | Expertise |
+|-------|------------|
+| 💬 LLMs | Prompt Engineering & AI Workflows |
+| 🔍 RAG Systems | Retrieval-Augmented Generation |
 | 🎨 Multimodal AI | Text + Image Generation |
-| 🛡️ Hallucination Mitigation | Output Validation, Guardrails |
-| 🛠️ Tool Use & Function Calling | API Integration with LLMs |
-| 📚 Vector Databases | FAISS, ChromaDB, Pinecone Basics |
+| 🛠️ AI Tool Calling | API Integration with LLMs |
+| 🧠 Vector Databases | FAISS, ChromaDB |
 
 ---
 
 ## 🟠 Layer 4 — AI Agents
-> *"Autonomous Task Execution"*
+> *"Autonomous systems that think and act"*
 
-| Skill | Details |
-|-------|---------|
-| 🤖 Agent Frameworks | ReAct, Chain-of-Thought (CoT), Tree-of-Thought (ToT) |
-| 🔧 Tool Orchestration | Actions, Plugins, API Integration |
-| 🗂️ Planning & Decomposition | Goal Decomposition, Task Scheduling |
-| 💾 Memory Systems | Short-term & Long-term Agent Memory |
-| 👁️ Human-in-the-Loop | Oversight, Feedback, Error Recovery |
+| Skill | Expertise |
+|-------|------------|
+| 🤖 Agent Frameworks | ReAct, CoT, ToT |
+| 🔧 Tool Orchestration | Plugins & API Integration |
+| 🗂️ Planning Systems | Task Scheduling & Decomposition |
+| 💾 Memory Systems | Context Retention in AI Agents |
+| 👁️ Human-in-the-Loop | Feedback & Error Recovery |
 
 ---
 
 ## 🔴 Layer 5 — Agentic AI *(Learning & Building)*
-> *"Automate Entire Processes with AI Automation"*
+> *"Automating complete workflows with AI"*
 
-| Skill | Details |
-|-------|---------|
-| 🔄 Multi-Agent Systems | Agent Coordination & Communication |
-| 📋 Agent Management | Scheduling, Rollback, Feedback Loops |
-| 🌐 Observability | Tracing, Monitoring, Logging |
-| ⚖️ Governance | Safety, Guardrails, Risk Management |
-| 🚀 Workflow Automation | AI Pipelines & Autonomous Execution |
+| Skill | Expertise |
+|-------|------------|
+| 🔄 Multi-Agent Systems | Agent Collaboration |
+| 🌐 Observability | Monitoring & Logging |
+| ⚖️ Governance | AI Safety & Guardrails |
+| 🚀 Workflow Automation | Autonomous AI Pipelines |
 
 ---
 
 # ☁️ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
 
-| Skill | Details |
-|-------|---------|
-| ☁️ Cloud Platforms | AWS, Google Cloud Platform (GCP), Microsoft Azure |
-| 🐳 Containerization | Docker Basics & Deployment |
-| 🔄 Version Control | Git & GitHub Workflow |
-| 🚀 Deployment | Model Deployment & Hosting |
-| 📦 CI/CD Basics | Automation & Continuous Integration |
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
----
+</p>
 
-# 🛠️ Tools & Technologies
+| Technology | Usage |
+|------------|-------|
+| ☁️ AWS | Cloud Infrastructure |
+| 🌐 Google Cloud | AI & Cloud Services |
+| 🔷 Microsoft Azure | Deployment & Cloud Apps |
+| 🐳 Docker | Containerization |
+| 🔄 Git & GitHub | Version Control |
 
-### 🧪 Development & Experimentation
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-### 🗄️ Databases & Data Tools
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-| Tool | Usage |
-|------|--------|
-| 🗄️ SQL | Data Querying & Management |
-| 📊 MLflow | Experiment Tracking & Model Lifecycle |
-| 📓 Jupyter Notebook | ML Experimentation & Research |
-| 🧠 Kaggle | Datasets & Model Practice |
-| 💻 VS Code | Development Environment |
-
----
 ---
 
 ## 🚀 Featured Projects
