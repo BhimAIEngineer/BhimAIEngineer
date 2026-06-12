@@ -4,7 +4,7 @@
 
 ### I turn data into decisions — and models into products.
 
-*Data Scientist turned ML Engineer · 3.7 years @ TCS · MCA in AI/ML · Building what's next*
+*ML Intern @ SmartED Innovations · Ex-Data Scientist @ TCS (3.7 Yrs) · MCA in AI/ML · Building what's next*
 
 <br/>
 
@@ -30,7 +30,16 @@ I'm not chasing trends. I'm building a foundation — layer by layer.
 
 ## What I've Done
 
-**Data Scientist — Tata Consultancy Services (TCS)**
+**Machine Learning Intern — SmartED Innovations**
+`Current`
+
+- Applying ML engineering skills in a real product environment focused on EdTech
+- Working on intelligent systems that power personalized learning experiences
+- Bridging the gap between model development and production deployment
+
+---
+
+**Associate Data Scientist — Tata Consultancy Services (TCS)**
 `3.7 Years`
 
 - Delivered end-to-end ML solutions across multiple client engagements
@@ -157,7 +166,7 @@ I use Kaggle not just to compete, but to publish notebooks that others can actua
 
 <div align="center">
 
-*"I don't just want to build models. I want to build systems that work - reliably, at scale, for real people."*
+*"I don't just want to build models. I want to build systems that work — reliably, at scale, for real people."*
 
 <br/>
 
