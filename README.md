@@ -30,7 +30,7 @@ I'm not chasing trends. I'm building a foundation — layer by layer.
 
 ## What I've Done
 
-**Associate Data Scientist — Tata Consultancy Services (TCS)**
+**Data Scientist — Tata Consultancy Services (TCS)**
 `3.7 Years`
 
 - Delivered end-to-end ML solutions across multiple client engagements
