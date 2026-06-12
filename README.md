@@ -1,186 +1,166 @@
-<h1 align="center">Hi 👋, I'm Bhim</h1>
-<h3 align="center">Ex-Associate Data Scientist @ TCS · 3.7 Yrs | MCA (AI/ML) | Aspiring ML Engineer 🚀</h3>
+<div align="center">
+
+# Hey, I'm Bhim 👋
+
+### I turn data into decisions — and models into products.
+
+*Data Scientist turned ML Engineer · 3.7 years @ TCS · MCA in AI/ML · Building what's next*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhimaiengineer)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bhimaiengineer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhimrajbhar.ai.engineer@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## The Story So Far
 
-- 🏢 **Ex-Associate Data Scientist** at **Tata Consultancy Services (TCS)** · 3.7 Years
-- 🎓 Pursuing **MCA with AI/ML Specialization**
-- 🤖 Passionate about **Machine Learning, Deep Learning, NLP & Agentic AI**
-- 📊 Love turning **raw data into actionable insights**
-- 🏆 **Kaggle Enthusiast** — actively building & publishing notebooks
-- 🎯 Goal: Transition into a full-stack **ML Engineer** role
-- 📫 Always open to **collaborations & opportunities**
+I spent **3.7 years at TCS** as a Data Scientist — building models, digging through messy data, and translating patterns into business decisions. I worked across real client problems: text classification, predictive modeling, EDA pipelines, and more.
 
----
+But somewhere along the way, I realized I didn't just want to *build* models. I wanted to *ship* them.
 
-# 🌟 Portfolio Overview
+That's what drove me toward ML Engineering — writing production-grade code, tracking experiments properly, deploying models as APIs, and thinking about the full lifecycle from notebook to inference. I'm now pursuing my **MCA with an AI/ML specialization** to sharpen that edge further, while simultaneously diving deep into **LLMs, RAG systems, and Agentic AI**.
 
-💡 Passionate about building intelligent systems using  
-Machine Learning, Deep Learning, Generative AI, and Agentic AI.
-
-📚 Currently exploring:
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & Automation
-- Cloud & MLOps Technologies
-
-🎯 Goal:
-To build scalable AI-powered applications that automate real-world problems using modern AI frameworks.
+I'm not chasing trends. I'm building a foundation — layer by layer.
 
 ---
 
-# 🧠 Skill Landscape *(Inspired by the Agentic AI Framework)*
+## What I've Done
+
+**Associate Data Scientist — Tata Consultancy Services (TCS)**
+`3.7 Years`
+
+- Delivered end-to-end ML solutions across multiple client engagements
+- Built NLP pipelines for text classification and document processing
+- Conducted deep EDA and feature engineering on structured & unstructured data
+- Evaluated and compared models using rigorous cross-validation and business metrics
+- Collaborated with stakeholders to turn model outputs into actionable recommendations
 
 ---
 
-## 🔵 Layer 1 — AI & ML Foundation
-> *"Turn your data into decisions"*
+## What I'm Good At
+
+### 🧪 Data Science
+> The craft of understanding data before trusting it
+
+```python
+skills = {
+    "EDA & Statistics":        ["Hypothesis Testing", "A/B Testing", "Distribution Analysis", "Outlier Detection"],
+    "Feature Engineering":     ["Encoding", "Scaling", "Imputation", "Dimensionality Reduction", "Custom Pipelines"],
+    "Classical ML":            ["XGBoost", "LightGBM", "Random Forest", "SVM", "Regression", "Clustering"],
+    "Model Evaluation":        ["Cross-Validation", "ROC-AUC", "F1", "RMSE", "Calibration Curves"],
+    "Tools":                   ["Python", "Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn", "Plotly"],
+}
+```
+
+---
+
+### ⚙️ ML Engineering
+> Because a model no one can use is just math
+
+```python
+skills = {
+    "Experiment Tracking":     ["MLflow — metrics, artifacts, model registry"],
+    "Model Deployment":        ["FastAPI", "Flask", "REST APIs", "Model Serialization (Pickle, ONNX)"],
+    "Containerization":        ["Docker — reproducible, portable ML environments"],
+    "Hyperparameter Tuning":   ["GridSearchCV", "RandomizedSearch", "Optuna"],
+    "Code Quality":            ["Modular pipelines", "OOP design", "Reproducible notebooks"],
+    "Version Control":         ["Git", "GitHub", "DVC (learning)"],
+}
+```
+
+---
+
+### 🧠 Deep Learning
+> When classical ML isn't enough
+
+```python
+skills = {
+    "Computer Vision":         ["CNNs", "Transfer Learning — ResNet, EfficientNet, VGG"],
+    "Sequential Modeling":     ["RNNs", "LSTMs", "Time-Series Forecasting"],
+    "Transformers":            ["BERT", "Attention Mechanisms", "Encoder-Decoder"],
+    "Frameworks":              ["TensorFlow", "PyTorch", "Keras"],
+    "Training":                ["Batch Norm", "Dropout", "LR Schedulers", "Early Stopping"],
+}
+```
+
+---
+
+### 🤖 Generative AI & Agents
+> The frontier I'm actively building on
+
+```python
+skills = {
+    "LLMs":                    ["Prompt Engineering", "Fine-Tuning (LoRA/QLoRA)", "LLM API Integration"],
+    "RAG Systems":             ["Retrieval-Augmented Generation", "Semantic Search", "Document Q&A"],
+    "Vector Databases":        ["FAISS", "ChromaDB", "Embeddings"],
+    "AI Agents":               ["ReAct", "Tool Calling", "LangChain Agents", "Agentic Pipelines"],
+    "Frameworks":              ["LangChain", "HuggingFace", "OpenAI API"],
+}
+```
+
+---
+
+### ☁️ Cloud & MLOps *(Actively Building)*
+> Scaling models from laptops to the real world
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-
-</p>
-
-| Skill | Expertise |
-|-------|------------|
-| 🔷 Supervised Learning | Regression, Classification, SVM, Decision Trees |
-| 🔷 Unsupervised Learning | Clustering, PCA, DBSCAN |
-| 🔷 NLP | Tokenization, TF-IDF, Text Classification |
-| 🔷 Feature Engineering | EDA, Data Cleaning, Pipelines |
-| 🔷 Model Evaluation | ROC-AUC, Cross Validation, F1 Score |
-
----
-
-## 🟢 Layer 2 — Deep Learning
-> *"Neural networks for intelligent systems"*
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
-</p>
-
-| Skill | Expertise |
-|-------|------------|
-| 🧠 CNNs | Image Classification & Feature Extraction |
-| 🔁 RNNs & LSTMs | Sequential & Time-Series Data |
-| 🌐 Transformers | BERT, Attention Mechanisms |
-| 📈 Optimization | Hyperparameter Tuning, Regularization |
-
----
-
-## 🟡 Layer 3 — Generative AI
-> *"Create intelligent AI-powered content"*
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</p>
-
-| Skill | Expertise |
-|-------|------------|
-| 💬 LLMs | Prompt Engineering & AI Workflows |
-| 🔍 RAG Systems | Retrieval-Augmented Generation |
-| 🎨 Multimodal AI | Text + Image Generation |
-| 🛠️ AI Tool Calling | API Integration with LLMs |
-| 🧠 Vector Databases | FAISS, ChromaDB |
-
----
-
-## 🟠 Layer 4 — AI Agents
-> *"Autonomous systems that think and act"*
-
-| Skill | Expertise |
-|-------|------------|
-| 🤖 Agent Frameworks | ReAct, CoT, ToT |
-| 🔧 Tool Orchestration | Plugins & API Integration |
-| 🗂️ Planning Systems | Task Scheduling & Decomposition |
-| 💾 Memory Systems | Context Retention in AI Agents |
-| 👁️ Human-in-the-Loop | Feedback & Error Recovery |
-
----
-
-## 🔴 Layer 5 — Agentic AI *(Learning & Building)*
-> *"Automating complete workflows with AI"*
-
-| Skill | Expertise |
-|-------|------------|
-| 🔄 Multi-Agent Systems | Agent Collaboration |
-| 🌐 Observability | Monitoring & Logging |
-| ⚖️ Governance | AI Safety & Guardrails |
-| 🚀 Workflow Automation | Autonomous AI Pipelines |
-
----
-
-# ☁️ Cloud & DevOps
-
-<p align="left">
-
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </p>
 
-| Technology | Usage |
-|------------|-------|
-| ☁️ AWS | Cloud Infrastructure |
-| 🌐 Google Cloud | AI & Cloud Services |
-| 🔷 Microsoft Azure | Deployment & Cloud Apps |
-| 🐳 Docker | Containerization |
-| 🔄 Git & GitHub | Version Control |
+`AWS S3 · EC2 · SageMaker (basics)` · `GCP` · `Azure ML` · `Dockerized APIs` · `CI/CD for ML (learning)`
 
 ---
 
-## 🚀 Featured Projects
+## What I've Built
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 📧 [Spam Email Classifier](https://github.com/) | End-to-end spam detection with full documentation & viva | Python, NLTK, Naive Bayes, Scikit-learn |
-| 🏠 [House Price Predictor](https://github.com/) | California Housing dataset regression model | Python, Linear Regression, Scikit-learn |
-| 🤖 *More Coming Soon...* | RAG System, LLM Agent, MLOps Pipeline | LangChain, Docker, MLflow |
-
+| Project | What it solves | Stack |
+|--------|---------------|-------|
+| 📧 [Spam Email Classifier](https://github.com/) | Detects spam with ~97% accuracy — full pipeline from text cleaning to deployment-ready model | Python · NLTK · Naive Bayes · Scikit-learn |
+| 🏠 [House Price Predictor](https://github.com/) | Regression model on California Housing — interpretable predictions with feature importance analysis | Python · Linear Regression · Scikit-learn |
+| 🔍 RAG Q&A System *(in progress)* | Ask questions over your own documents using LLMs + semantic retrieval | LangChain · FAISS · OpenAI |
+| 🚀 MLOps Pipeline *(in progress)* | End-to-end: train → track → containerize → serve | MLflow · Docker · FastAPI |
 
 ---
 
-## 🏆 Kaggle Profile
+## What's Next
 
-<p align="center">
+Right now I'm focused on closing the gap between *"model works on my machine"* and *"model works in production"*.
+
+```
+→  Advanced MLOps: DVC + GitHub Actions + automated retraining
+→  LLM Fine-tuning: LoRA & QLoRA on domain-specific data  
+→  Multi-Agent Systems: building pipelines where agents collaborate
+→  AWS SageMaker: end-to-end cloud ML deployment
+```
+
+---
+
+## On Kaggle
+
+I use Kaggle not just to compete, but to publish notebooks that others can actually learn from — clean code, documented decisions, honest analysis.
+
+<p align="left">
   <a href="https://www.kaggle.com/bhimaiengineer">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle-bhimaiengineer-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
 
-
 ---
 
-## 🤝 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/bhimaiengineer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kaggle.com/bhimaiengineer"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="mailto:bhimrajbhar.ai.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+*"I don't just want to build models. I want to build systems that work — reliably, at scale, for real people."*
 
----
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhimAIEngineer&label=Profile%20Views&color=00C9FF&style=flat" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=BhimAIEngineer&label=Profile%20Views&color=00C9FF&style=flat)
 
-<p align="center"><i>"Data is the new oil, but insights are the engine." 🚀</i></p>
+</div>
