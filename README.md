@@ -157,7 +157,7 @@ I use Kaggle not just to compete, but to publish notebooks that others can actua
 
 <div align="center">
 
-*"I don't just want to build models. I want to build systems that work — reliably, at scale, for real people."*
+*"I don't just want to build models. I want to build systems that work - reliably, at scale, for real people."*
 
 <br/>
 
