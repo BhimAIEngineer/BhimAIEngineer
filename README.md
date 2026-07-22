@@ -4,7 +4,7 @@
 
 ### I turn data into decisions — and models into products.
 
-*ML Intern @ SmartED Innovations · Ex-Data Scientist @ TCS (3.7 Yrs) · MCA in AI/ML · Building what's next*
+*ML Intern @ SmartED Innovations · Ex-Data Scientist @ TCS (3.8 Yrs) · MCA in AI/ML · Building what's next*
 
 <br/>
 
