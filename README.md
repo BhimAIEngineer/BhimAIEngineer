@@ -125,7 +125,7 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 | Role | Company | Duration |
 |---|---|---|
 | ML Intern | SmartED Innovations (EdTech, remote) | Jun 2026 – Present |
-| Associate Data Scientist | TCS (Walmart Global Tech account) | 3.8 yrs (ended Jul 2025) |
+| Data Scientist | TCS (Walmart Global Tech account) | 3.8 yrs (ended Jul 2025) |
 
 ---
 
