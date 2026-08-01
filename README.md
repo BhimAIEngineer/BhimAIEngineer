@@ -1,29 +1,30 @@
 <div align="center">
 
 # Hi, I'm Bhim 👋
-### Data Scientist → ML Engineer | I ship models, not just notebooks
+### Machine Learning Engineer · Data Scientist | I ship models, not just notebooks
 
 **ML Intern @ SmartED Innovations · Ex-Data Scientist @ TCS (Walmart Global Tech, 3.8 yrs) · MCA (AI/ML)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhimaiengineer)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bhimaiengineer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhimrajbhar.ai.engineer@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhimAIEngineer)
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+![👨‍💻 About Me](https://img.shields.io/badge/👨‍💻_ABOUT_ME-4A6FE3?style=for-the-badge&logoColor=white)
 
-I spent **3.8 years at TCS** on the Walmart Global Tech account, building demand forecasting models, NLP pipelines, and computer vision systems that fed real business decisions. Along the way I realized the bottleneck for most ML work isn't modeling — it's getting a model from a notebook into something that actually runs in production, reliably, under load.
+I spent **3.8 years at TCS** on the Walmart Global Tech account, working as a **Data Scientist** — building demand forecasting models, NLP pipelines, and computer vision systems that fed real business decisions. Along the way I realized the bottleneck for most ML work isn't modeling — it's getting a model from a notebook into something that runs reliably in production, as a **Machine Learning Engineer** would build it.
 
 That's the gap I've spent the last year closing. I'm pursuing an **MCA (AI/ML)** at Uttaranchal University, working as an **ML Intern at SmartED Innovations** (EdTech), and building a portfolio of end-to-end systems — each with proper serving, containerization, experiment tracking, and CI — not just a `.ipynb` and a README.
 
 **Currently focused on:** production ML systems, computer vision for industrial use cases, predictive maintenance, and multi-agent LLM systems (LangGraph).
 
----
+<br/>
 
-## 🚀 Featured Projects
+![🚀 Featured Projects](https://img.shields.io/badge/🚀_FEATURED_PROJECTS-4A6FE3?style=for-the-badge&logoColor=white)
 
 ### 🏭 [Industrial Defect Detection System](https://github.com/BhimAIEngineer/industrial-defect-detection)
 Real-time defect detection for manufacturing lines using computer vision.
@@ -51,9 +52,9 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 
 > 📌 *Each project above is built from scratch with production concerns in mind: containerized serving, experiment tracking, and reproducible pipelines — not just a training script.*
 
----
+<br/>
 
-## 🧰 Tech Toolbox
+![🧰 Tech Toolbox](https://img.shields.io/badge/🧰_TECH_TOOLBOX-4A6FE3?style=for-the-badge&logoColor=white)
 
 <table>
 <tr>
@@ -107,35 +108,42 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 </table>
 
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,git,github,aws,gcp,azure,fastapi,flask,linux,vscode" />
 </p>
 
----
+<br/>
 
-## 💼 Experience
+![💼 Experience](https://img.shields.io/badge/💼_EXPERIENCE-4A6FE3?style=for-the-badge&logoColor=white)
 
 | Role | Company | Duration |
 |---|---|---|
-| ML Intern | SmartED Innovations (EdTech, remote) | Jun 2026 – Present |
-| Data Scientist | TCS (Walmart Global Tech account) | 3.8 yrs (ended Jul 2025) |
+| **ML Intern** | SmartED Innovations (EdTech, remote) | Jun 2026 – Present |
+| **Data Scientist** | TCS (Walmart Global Tech account) | 3.8 yrs (ended Jul 2025) |
 
----
+<br/>
 
-## 🎓 Currently
+![📊 GitHub Stats](https://img.shields.io/badge/📊_GITHUB_STATS-4A6FE3?style=for-the-badge&logoColor=white)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BhimAIEngineer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhimAIEngineer&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=BhimAIEngineer&theme=tokyonight&hide_border=true" width="60%" />
+
+</div>
+
+<br/>
+
+![🎓 Currently](https://img.shields.io/badge/🎓_CURRENTLY-4A6FE3?style=for-the-badge&logoColor=white)
 
 - Pursuing MCA (AI/ML specialization) — Uttaranchal University
 - Building production-grade ML/CV/agentic-AI projects, one per target role
-- Open to **Data Scientist / ML Engineer** opportunities
+- Open to **Data Scientist / Machine Learning Engineer** opportunities
 
----
+<br/>
 
 <div align="center">
 
