@@ -1,37 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bhim+%F0%9F%91%8B;Machine+Learning+Engineer;Data+Scientist;AI+Engineer" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/ML%20Intern%20%40%20SmartED-00C9FF?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ex--Data%20Scientist%20%40%20TCS-FF6B6B?style=for-the-badge&logo=tcs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCA%20(AI%2FML)-6C5CE7?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-</div>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:000000,50:0f172a,100:0284c7&height=220&section=header&text=Hi%20there,%20I'm%20Bhim%20👋&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 
-<br/>
+### 🤖 Machine Learning Engineer · Data Scientist · AI Engineer
+**"I’d rather ship a containerized model to production than keep polishing it in a notebook."**
 
-<div align="center">
-  <a href="https://linkedin.com/in/bhimaiengineer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/bhimaiengineer">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:bhimrajbhar.ai.engineer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/BhimAIEngineer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Ex-Data+Scientist+%40+TCS+(Walmart+Global+Tech);ML+Intern+%40+SmartED+Innovations;Production+MLOps+%7C+CV+%7C+LangGraph+Agents;MCA+(AI%2FML)+%40+Uttaranchal+University)](https://git.io/typing-svg)
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/⭐-Ship_It-00C9FF?style=flat-square&labelColor=1A1A2E" />
-  <img src="https://img.shields.io/badge/🧪-Experiment_Tracking-FF6B6B?style=flat-square&labelColor=1A1A2E" />
-  <img src="https://img.shields.io/badge/🚀-Deploy_It-6C5CE7?style=flat-square&labelColor=1A1A2E" />
-  <img src="https://img.shields.io/badge/📊-Monitor_It-00D2FF?style=flat-square&labelColor=1A1A2E" />
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhimaiengineer)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhimAIEngineer)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bhimaiengineer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhimrajbhar.ai.engineer@gmail.com)
+
 </div>
 
 ---
@@ -39,35 +23,13 @@
 ### 👨‍💻 About Me
 
 ```python
-class AIEngineer:
+class MLEngineer:
     def __init__(self):
         self.name = "Bhim"
-        self.title = "Machine Learning Engineer & Data Scientist"
-        self.role = "ML Intern @ SmartED Innovations"
-        self.past = "Data Scientist @ TCS (Walmart Global Tech, 3.8 yrs)"
-        self.education = "MCA (AI/ML) @ Uttaranchal University"
-        self.mantra = "Ship it. Don't just notebook it."
-    
-    def get_philosophy(self):
-        return """
-        I spent 3.8 years building models that worked in notebooks 
-        but never made it to production. So I fixed that.
-        Now I build pipelines, not just prototypes.
-        """
-    
-    def current_focus(self):
-        return [
-            "Production ML Systems",
-            "Computer Vision for Industry",
-            "Predictive Maintenance",
-            "Multi-Agent LLM Systems (LangGraph)"
-        ]
+        self.role = "Machine Learning Engineer / Data Scientist"
+        self.experience = "3.8 yrs @ TCS (Walmart Global Tech Account)"
+        self.current_focus = ["Production MLOps", "Agentic AI (LangGraph)", "Industrial Computer Vision"]
+        self.philosophy = "Notebooks explore; APIs and Docker containers deliver value."
 
-
-🚀 Featured Projects
-<table> <tr> <td width="50%">
-🏭 Industrial Defect Detection
-Real-time manufacturing quality control
-
-https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white
-https://img.shields.io/badge/Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white
+    def get_mission(self):
+        return "Building robust, self-healing, and scalable ML systems end-to-end."
