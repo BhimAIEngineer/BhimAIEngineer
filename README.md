@@ -62,3 +62,12 @@ class AIEngineer:
             "Predictive Maintenance",
             "Multi-Agent LLM Systems (LangGraph)"
         ]
+
+
+🚀 Featured Projects
+<table> <tr> <td width="50%">
+🏭 Industrial Defect Detection
+Real-time manufacturing quality control
+
+https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white
+https://img.shields.io/badge/Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white
