@@ -67,6 +67,7 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 - **Classical ML** — XGBoost, LightGBM, Random Forest, SVM, regression, clustering (k-means, hierarchical)
 - **Model Evaluation** — cross-validation, ROC-AUC, F1, RMSE, calibration curves, business-metric alignment
 - **Tooling** — Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+- **Applied EDA** — deep exploratory analysis on structured & unstructured client data, missing-value and outlier strategies for messy real-world datasets
 
 #### 🧠 Deep Learning
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![CNN](https://img.shields.io/badge/-CNNs-1E90FF?style=flat-square) ![LSTM](https://img.shields.io/badge/-RNN/LSTM-1E90FF?style=flat-square) ![Transformers](https://img.shields.io/badge/-Transformers-1E90FF?style=flat-square)
@@ -75,6 +76,7 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 - **Transformers** — attention mechanisms, encoder-decoder architectures, BERT
 - **Training Practices** — batch normalization, dropout, LR schedulers, early stopping, regularization
 - **Frameworks** — PyTorch, TensorFlow, Keras
+- **Time-Series Forecasting** — demand/remaining-useful-life forecasting with deep sequential models on real production data
 
 #### 💬 Natural Language Processing
 ![BERT](https://img.shields.io/badge/-BERT-FFD21E?style=flat-square) ![NER](https://img.shields.io/badge/-NER-FFD21E?style=flat-square) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![NLTK](https://img.shields.io/badge/-NLTK-FFD21E?style=flat-square)
@@ -82,6 +84,7 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 - **Text Processing** — cleaning, tokenization, embeddings (Word2Vec, TF-IDF)
 - **Transformer-based NLP** — BERT fine-tuning for domain-specific tasks
 - **Retrieval-Aware NLP** — semantic search, document Q&A, RAG-style pipelines over unstructured text
+- **Applied NLP** — production text classification & document processing pipelines built for real client use cases
 
 </td>
 <td valign="top" width="50%">
@@ -94,6 +97,7 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 - **CI/CD** — GitHub Actions pipelines for automated testing and deployment
 - **Hyperparameter Tuning** — GridSearchCV, RandomizedSearch, Optuna
 - **Code Quality** — modular pipelines, OOP design, reproducible notebooks, Git/GitHub version control
+- **End-to-End Ownership** — train → track → containerize → serve, applied consistently across every shipped project
 
 #### 🤖 Generative AI & Agents
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) ![FAISS](https://img.shields.io/badge/-FAISS-1C3C3C?style=flat-square) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-1C3C3C?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
@@ -101,6 +105,7 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 - **RAG Systems** — retrieval-augmented generation, semantic search, document Q&A
 - **Vector Databases** — FAISS, ChromaDB, embeddings
 - **AI Agents** — ReAct, tool-calling, LangChain/LangGraph agents, multi-agent orchestration
+- **Applied Agentic Systems** — multi-agent workflows built for real triage/support use cases, not just single-chain demos
 
 #### 👁️ Computer Vision
 ![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![SHAP](https://img.shields.io/badge/-SHAP-5C3EE8?style=flat-square)
@@ -108,6 +113,7 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 - **Transfer Learning** — fine-tuning pretrained backbones for domain-specific vision tasks
 - **Explainability** — model interpretability with SHAP for vision & tabular models alike
 - **Serving** — real-time inference pipelines, dashboarding (Streamlit)
+- **Industrial CV** — defect detection for manufacturing lines, built and deployed as a full production pipeline
 
 #### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -115,6 +121,7 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 - **Google Cloud Platform** — GCP core services for ML workloads
 - **Microsoft Azure** — Azure ML for model training & deployment
 - **Deployment** — Dockerized, cloud-ready model APIs; CI/CD for ML (learning)
+- **Scaling Path** — actively building toward full cloud-native ML deployment (SageMaker end-to-end, managed pipelines)
 
 </td>
 </tr>
