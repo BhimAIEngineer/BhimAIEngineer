@@ -60,27 +60,41 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 <td valign="top" width="50%">
 
 **Data Science & Classical ML**
-- EDA, hypothesis testing, feature engineering
-- XGBoost, LightGBM, Random Forest, SVM
-- Cross-validation, ROC-AUC, calibration
+- EDA, hypothesis testing, A/B testing
+- Feature engineering, encoding, scaling, imputation
+- XGBoost, LightGBM, Random Forest, SVM, clustering
+- Cross-validation, ROC-AUC, F1, RMSE, calibration
 
 **Deep Learning**
-- CNNs, transfer learning (ResNet, EfficientNet)
-- RNNs/LSTMs for time-series
-- Transformers, BERT, attention
+- CNNs, transfer learning (ResNet, EfficientNet, VGG)
+- RNNs/LSTMs for sequential & time-series data
+- Transformers, BERT, attention mechanisms
+- Batch norm, dropout, LR schedulers, early stopping
+
+**Natural Language Processing**
+- Text classification, sentiment analysis, NER
+- Text cleaning, tokenization, embeddings (Word2Vec, TF-IDF)
+- BERT-based fine-tuning for domain-specific tasks
+- Semantic search & document Q&A
 
 </td>
 <td valign="top" width="50%">
 
 **ML Engineering & MLOps**
-- FastAPI, Docker, MLflow
-- CI/CD (GitHub Actions)
-- Model serving & experiment tracking
+- FastAPI, Flask, REST APIs, model serialization
+- Docker — reproducible, portable environments
+- MLflow — experiment tracking, model registry
+- CI/CD (GitHub Actions), hyperparameter tuning (Optuna)
 
 **Generative AI & Agents**
 - LangChain, LangGraph, RAG (FAISS, ChromaDB)
 - Prompt engineering, LoRA/QLoRA fine-tuning
-- Multi-agent, tool-calling pipelines
+- Multi-agent, tool-calling, ReAct pipelines
+
+**Computer Vision**
+- Object detection (YOLOv8), image classification
+- Transfer learning, model explainability (SHAP)
+- Real-time inference pipelines
 
 </td>
 </tr>
