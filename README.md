@@ -1,40 +1,6 @@
 
-Conversation with Gemini
-I have my readme.md file make the changes in my readme.md file according to you make changes in that file to look like more graphicals and themes of Machine Learning Engineer and Data Scientist and AI Engineer.
-
-
-
-<div align="center">
-
-
 
 # Hi, I'm Bhim 👋
-
-### Machine Learning Engineer · Data Scientist. I'd rather ship something than keep polishing it in a notebook.
-
-
-
-**ML Intern @ SmartED Innovations · Ex-Data Scientist @ TCS (Walmart Global Tech, 3.8 yrs) · MCA (AI/ML)**
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhimaiengineer)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bhimaiengineer)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhimrajbhar.ai.engineer@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhimAIEngineer)
-
-
-
-</div>
-
-
-
-<br/>
-
-
 
 ### 👨‍💻 About Me
 
