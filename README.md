@@ -1,12 +1,9 @@
 <div align="center">
 
-# Hey, I'm Bhim 👋
+# Hi, I'm Bhim 👋
+### Data Scientist → ML Engineer | I ship models, not just notebooks
 
-### I turn data into decisions — and models into products.
-
-*ML Intern @ SmartED Innovations · Ex-Data Scientist @ TCS (3.8 Yrs) · MCA in AI/ML · Building what's next*
-
-<br/>
+**ML Intern @ SmartED Innovations · Ex-Data Scientist @ TCS (Walmart Global Tech, 3.8 yrs) · MCA (AI/ML)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhimaiengineer)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bhimaiengineer)
@@ -16,159 +13,112 @@
 
 ---
 
-## The Story So Far
+## 👨‍💻 About Me
 
-I spent **3.7 years at TCS** as a Data Scientist — building models, digging through messy data, and translating patterns into business decisions. I worked across real client problems: text classification, predictive modeling, EDA pipelines, and more.
+I spent **3.8 years at TCS** on the Walmart Global Tech account, building demand forecasting models, NLP pipelines, and computer vision systems that fed real business decisions. Along the way I realized the bottleneck for most ML work isn't modeling — it's getting a model from a notebook into something that actually runs in production, reliably, under load.
 
-But somewhere along the way, I realized I didn't just want to *build* models. I wanted to *ship* them.
+That's the gap I've spent the last year closing. I'm pursuing an **MCA (AI/ML)** at Uttaranchal University, working as an **ML Intern at SmartED Innovations** (EdTech), and building a portfolio of end-to-end systems — each with proper serving, containerization, experiment tracking, and CI — not just a `.ipynb` and a README.
 
-That's what drove me toward ML Engineering — writing production-grade code, tracking experiments properly, deploying models as APIs, and thinking about the full lifecycle from notebook to inference. I'm now pursuing my **MCA with an AI/ML specialization** to sharpen that edge further, while simultaneously diving deep into **LLMs, RAG systems, and Agentic AI**.
-
-I'm not chasing trends. I'm building a foundation — layer by layer.
+**Currently focused on:** production ML systems, computer vision for industrial use cases, predictive maintenance, and multi-agent LLM systems (LangGraph).
 
 ---
 
-## What I've Done
+## 🚀 Featured Projects
 
-**Machine Learning Intern — SmartED Innovations**
-`Current`
+### 🏭 [Industrial Defect Detection System](https://github.com/BhimAIEngineer/industrial-defect-detection)
+Real-time defect detection for manufacturing lines using computer vision.
+`YOLOv8` · `FastAPI` · `Docker` · `MLflow` · `GitHub Actions CI` · `Streamlit dashboard`
 
-- Applying ML engineering skills in a real product environment focused on EdTech
-- Working on intelligent systems that power personalized learning experiences
-- Bridging the gap between model development and production deployment
+### 🏥 Disease Prediction & Medical Diagnosis System
+Production-grade diagnostic system combining image-based and tabular models with explainability built in.
+`ResNet50 (94% acc.)` · `Custom ANN (+6% over baseline)` · `SHAP` · `FastAPI` · `Docker` · `MLflow` · `CI/CD`
 
----
+### ✈️ Turbofan Predictive Maintenance (Remaining Useful Life)
+End-to-end RUL prediction on NASA's CMAPSS dataset, framed around real cost-savings from predictive vs. reactive maintenance.
+`Feature Engineering` · `Linear Regression / Random Forest / XGBoost` · `LSTM` · `FastAPI` · `Streamlit` · `Cost-Simulation`
 
-**Associate Data Scientist — Tata Consultancy Services (TCS)**
-`3.7 Years`
+### 🤖 Multi-Agent Healthcare Triage Assistant *(in progress)*
+A multi-agent support/triage system built with LangGraph — agents collaborate rather than a single monolithic chain.
+`LangGraph` · `Agentic Workflows` · `LLM Orchestration`
 
-- Delivered end-to-end ML solutions across multiple client engagements
-- Built NLP pipelines for text classification and document processing
-- Conducted deep EDA and feature engineering on structured & unstructured data
-- Evaluated and compared models using rigorous cross-validation and business metrics
-- Collaborated with stakeholders to turn model outputs into actionable recommendations
+### 📧 Spam Email Classifier
+Full pipeline from raw text to deployment-ready model — 97.5% accuracy.
+`Python` · `NLTK` · `Multinomial Naive Bayes` · `Scikit-learn`
 
----
+### 🏠 House Price Predictor
+Regression on California housing data, deployed as an interactive Streamlit app with feature-importance breakdowns.
+`Linear Regression` · `Scikit-learn` · `Streamlit`
 
-## What I'm Good At
-
-### 🧪 Data Science
-> The craft of understanding data before trusting it
-
-```python
-skills = {
-    "EDA & Statistics":        ["Hypothesis Testing", "A/B Testing", "Distribution Analysis", "Outlier Detection"],
-    "Feature Engineering":     ["Encoding", "Scaling", "Imputation", "Dimensionality Reduction", "Custom Pipelines"],
-    "Classical ML":            ["XGBoost", "LightGBM", "Random Forest", "SVM", "Regression", "Clustering"],
-    "Model Evaluation":        ["Cross-Validation", "ROC-AUC", "F1", "RMSE", "Calibration Curves"],
-    "Tools":                   ["Python", "Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn", "Plotly"],
-}
-```
+> 📌 *Each project above is built from scratch with production concerns in mind: containerized serving, experiment tracking, and reproducible pipelines — not just a training script.*
 
 ---
 
-### ⚙️ ML Engineering
-> Because a model no one can use is just math
+## 🧰 Tech Toolbox
 
-```python
-skills = {
-    "Experiment Tracking":     ["MLflow — metrics, artifacts, model registry"],
-    "Model Deployment":        ["FastAPI", "Flask", "REST APIs", "Model Serialization (Pickle, ONNX)"],
-    "Containerization":        ["Docker — reproducible, portable ML environments"],
-    "Hyperparameter Tuning":   ["GridSearchCV", "RandomizedSearch", "Optuna"],
-    "Code Quality":            ["Modular pipelines", "OOP design", "Reproducible notebooks"],
-    "Version Control":         ["Git", "GitHub", "DVC (learning)"],
-}
-```
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+**Data Science & Classical ML**
+- EDA, hypothesis testing, feature engineering
+- XGBoost, LightGBM, Random Forest, SVM
+- Cross-validation, ROC-AUC, calibration
 
-### 🧠 Deep Learning
-> When classical ML isn't enough
+**Deep Learning**
+- CNNs, transfer learning (ResNet, EfficientNet)
+- RNNs/LSTMs for time-series
+- Transformers, BERT, attention
 
-```python
-skills = {
-    "Computer Vision":         ["CNNs", "Transfer Learning — ResNet, EfficientNet, VGG"],
-    "Sequential Modeling":     ["RNNs", "LSTMs", "Time-Series Forecasting"],
-    "Transformers":            ["BERT", "Attention Mechanisms", "Encoder-Decoder"],
-    "Frameworks":              ["TensorFlow", "PyTorch", "Keras"],
-    "Training":                ["Batch Norm", "Dropout", "LR Schedulers", "Early Stopping"],
-}
-```
+</td>
+<td valign="top" width="50%">
 
----
+**ML Engineering & MLOps**
+- FastAPI, Docker, MLflow
+- CI/CD (GitHub Actions)
+- Model serving & experiment tracking
 
-### 🤖 Generative AI & Agents
-> The frontier I'm actively building on
+**Generative AI & Agents**
+- LangChain, LangGraph, RAG (FAISS, ChromaDB)
+- Prompt engineering, LoRA/QLoRA fine-tuning
+- Multi-agent, tool-calling pipelines
 
-```python
-skills = {
-    "LLMs":                    ["Prompt Engineering", "Fine-Tuning (LoRA/QLoRA)", "LLM API Integration"],
-    "RAG Systems":             ["Retrieval-Augmented Generation", "Semantic Search", "Document Q&A"],
-    "Vector Databases":        ["FAISS", "ChromaDB", "Embeddings"],
-    "AI Agents":               ["ReAct", "Tool Calling", "LangChain Agents", "Agentic Pipelines"],
-    "Frameworks":              ["LangChain", "HuggingFace", "OpenAI API"],
-}
-```
-
----
-
-### ☁️ Cloud & MLOps *(Actively Building)*
-> Scaling models from laptops to the real world
+</td>
+</tr>
+</table>
 
 <p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 </p>
 
-`AWS S3 · EC2 · SageMaker (basics)` · `GCP` · `Azure ML` · `Dockerized APIs` · `CI/CD for ML (learning)`
+---
+
+## 💼 Experience
+
+| Role | Company | Duration |
+|---|---|---|
+| ML Intern | SmartED Innovations (EdTech, remote) | Jun 2026 – Present |
+| Associate Data Scientist | TCS (Walmart Global Tech account) | 3.8 yrs (ended Jul 2025) |
 
 ---
 
-## What I've Built
+## 🎓 Currently
 
-| Project | What it solves | Stack |
-|--------|---------------|-------|
-| 📧 [Spam Email Classifier](https://github.com/) | Detects spam with ~97% accuracy — full pipeline from text cleaning to deployment-ready model | Python · NLTK · Naive Bayes · Scikit-learn |
-| 🏠 [House Price Predictor](https://github.com/) | Regression model on California Housing — interpretable predictions with feature importance analysis | Python · Linear Regression · Scikit-learn |
-| 🔍 RAG Q&A System *(in progress)* | Ask questions over your own documents using LLMs + semantic retrieval | LangChain · FAISS · OpenAI |
-| 🚀 MLOps Pipeline *(in progress)* | End-to-end: train → track → containerize → serve | MLflow · Docker · FastAPI |
-
----
-
-## What's Next
-
-Right now I'm focused on closing the gap between *"model works on my machine"* and *"model works in production"*.
-
-```
-→  Advanced MLOps: DVC + GitHub Actions + automated retraining
-→  LLM Fine-tuning: LoRA & QLoRA on domain-specific data  
-→  Multi-Agent Systems: building pipelines where agents collaborate
-→  AWS SageMaker: end-to-end cloud ML deployment
-```
-
----
-
-## On Kaggle
-
-I use Kaggle not just to compete, but to publish notebooks that others can actually learn from — clean code, documented decisions, honest analysis.
-
-<p align="left">
-  <a href="https://www.kaggle.com/bhimaiengineer">
-    <img src="https://img.shields.io/badge/Kaggle-bhimaiengineer-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-</p>
+- Pursuing MCA (AI/ML specialization) — Uttaranchal University
+- Building production-grade ML/CV/agentic-AI projects, one per target role
+- Open to **Data Scientist / ML Engineer** opportunities
 
 ---
 
 <div align="center">
 
-*"I don't just want to build models. I want to build systems that work — reliably, at scale, for real people."*
-
-<br/>
+📫 **Let's connect** — [LinkedIn](https://linkedin.com/in/bhimaiengineer) · [Kaggle](https://kaggle.com/bhimaiengineer) · [Email](mailto:bhimrajbhar.ai.engineer@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BhimAIEngineer&label=Profile%20Views&color=00C9FF&style=flat)
 
