@@ -61,12 +61,12 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 <td valign="top" width="50%">
 
 #### 📈 Data Science & Classical ML
-![EDA](https://img.shields.io/badge/-EDA-6C5CE7?style=flat-square) ![A/B Testing](https://img.shields.io/badge/-A/B_Testing-6C5CE7?style=flat-square) ![XGBoost](https://img.shields.io/badge/-XGBoost-6C5CE7?style=flat-square&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/-LightGBM-6C5CE7?style=flat-square) ![Random Forest](https://img.shields.io/badge/-Random_Forest-6C5CE7?style=flat-square) ![SVM](https://img.shields.io/badge/-SVM-6C5CE7?style=flat-square) ![Clustering](https://img.shields.io/badge/-Clustering-6C5CE7?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-6C5CE7?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-6C5CE7?style=flat-square&logo=numpy&logoColor=white)
+![EDA](https://img.shields.io/badge/-EDA-6C5CE7?style=flat-square) ![A/B Testing](https://img.shields.io/badge/-A/B_Testing-6C5CE7?style=flat-square) ![XGBoost](https://img.shields.io/badge/-XGBoost-6C5CE7?style=flat-square&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/-LightGBM-6C5CE7?style=flat-square) ![Random Forest](https://img.shields.io/badge/-Random_Forest-6C5CE7?style=flat-square) ![SVM](https://img.shields.io/badge/-SVM-6C5CE7?style=flat-square) ![Clustering](https://img.shields.io/badge/-Clustering-6C5CE7?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-6C5CE7?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-6C5CE7?style=flat-square&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-6C5CE7?style=flat-square&logo=postgresql&logoColor=white)
 - **EDA & Statistics** — hypothesis testing, A/B testing, distribution analysis, outlier detection
 - **Feature Engineering** — encoding, scaling, imputation, dimensionality reduction, custom pipelines
 - **Classical ML** — XGBoost, LightGBM, Random Forest, SVM, regression, clustering (k-means, hierarchical)
 - **Model Evaluation** — cross-validation, ROC-AUC, F1, RMSE, calibration curves, business-metric alignment
-- **Tooling** — Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+- **Tooling** — Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
 - **Applied EDA** — deep exploratory analysis on structured & unstructured client data, missing-value and outlier strategies for messy real-world datasets
 
 #### 🧠 Deep Learning
@@ -128,7 +128,7 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 </table>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,git,github,aws,gcp,azure,fastapi,flask,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,mysql,docker,git,github,aws,gcp,azure,fastapi,flask,linux,vscode&theme=dark" />
 </p>
 
 <br/>
