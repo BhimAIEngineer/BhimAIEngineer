@@ -126,10 +126,13 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BhimAIEngineer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhimAIEngineer&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhimAIEngineer/BhimAIEngineer/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BhimAIEngineer/BhimAIEngineer/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BhimAIEngineer/BhimAIEngineer/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=BhimAIEngineer&theme=tokyonight&hide_border=true" width="60%" />
 
