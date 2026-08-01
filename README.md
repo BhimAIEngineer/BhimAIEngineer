@@ -96,6 +96,12 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 - Transfer learning, model explainability (SHAP)
 - Real-time inference pipelines
 
+**Cloud & Deployment**
+- AWS (S3, EC2, SageMaker basics)
+- Google Cloud Platform
+- Microsoft Azure ML
+- Dockerized, cloud-ready model APIs
+
 </td>
 </tr>
 </table>
@@ -108,7 +114,8 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 </p>
 
 ---
