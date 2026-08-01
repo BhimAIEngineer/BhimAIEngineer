@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Bhim 👋
-### Machine Learning Engineer · Data Scientist | I ship models, not just notebooks
+### Machine Learning Engineer · Data Scientist — I'd rather ship something than keep polishing it in a notebook
 
 **ML Intern @ SmartED Innovations · Ex-Data Scientist @ TCS (Walmart Global Tech, 3.8 yrs) · MCA (AI/ML)**
 
@@ -16,41 +16,41 @@
 
 ![👨‍💻 About Me](https://img.shields.io/badge/👨‍💻_ABOUT_ME-4A6FE3?style=for-the-badge&logoColor=white)
 
-I spent **3.8 years at TCS** on the Walmart Global Tech account, working as a **Data Scientist** — building demand forecasting models, NLP pipelines, and computer vision systems that fed real business decisions. Along the way I realized the bottleneck for most ML work isn't modeling — it's getting a model from a notebook into something that runs reliably in production, as a **Machine Learning Engineer** would build it.
+I spent 3.8 years at TCS on the Walmart Global Tech account as a Data Scientist — mostly demand forecasting, NLP pipelines, and computer vision for real business problems. Somewhere in there I got tired of models that worked great in a notebook and then just... sat there. Nobody was actually shipping them.
 
-That's the gap I've spent the last year closing. I'm pursuing an **MCA (AI/ML)** at Uttaranchal University, working as an **ML Intern at SmartED Innovations** (EdTech), and building a portfolio of end-to-end systems — each with proper serving, containerization, experiment tracking, and CI — not just a `.ipynb` and a README.
+So that's what I've been fixing for the past year. I'm doing an MCA (AI/ML) at Uttaranchal University, working as an ML Intern at SmartED Innovations, and using every side project as an excuse to deploy something properly — Docker, an actual API, experiment tracking, CI. Not another notebook that ends with "and then we could deploy this."
 
-**Currently focused on:** production ML systems, computer vision for industrial use cases, predictive maintenance, and multi-agent LLM systems (LangGraph).
+Right now I'm deep into production ML systems, computer vision for industrial use cases, predictive maintenance, and multi-agent LLM systems with LangGraph.
 
 <br/>
 
 ![🚀 Featured Projects](https://img.shields.io/badge/🚀_FEATURED_PROJECTS-4A6FE3?style=for-the-badge&logoColor=white)
 
 ### 🏭 [Industrial Defect Detection System](https://github.com/BhimAIEngineer/industrial-defect-detection)
-Real-time defect detection for manufacturing lines using computer vision.
+Catches defects on a manufacturing line as they happen, instead of after the batch has already shipped.
 `YOLOv8` · `FastAPI` · `Docker` · `MLflow` · `GitHub Actions CI` · `Streamlit dashboard`
 
 ### 🏥 Disease Prediction & Medical Diagnosis System
-Production-grade diagnostic system combining image-based and tabular models with explainability built in.
+Combines image-based and tabular models for diagnosis, with SHAP baked in so a doctor isn't just told "trust the model."
 `ResNet50 (94% acc.)` · `Custom ANN (+6% over baseline)` · `SHAP` · `FastAPI` · `Docker` · `MLflow` · `CI/CD`
 
 ### ✈️ Turbofan Predictive Maintenance (Remaining Useful Life)
-End-to-end RUL prediction on NASA's CMAPSS dataset, framed around real cost-savings from predictive vs. reactive maintenance.
+Predicts how much life is left in a turbofan engine using NASA's CMAPSS data, then runs the numbers on what that's actually worth compared to reactive maintenance.
 `Feature Engineering` · `Linear Regression / Random Forest / XGBoost` · `LSTM` · `FastAPI` · `Streamlit` · `Cost-Simulation`
 
 ### 🤖 Multi-Agent Healthcare Triage Assistant *(in progress)*
-A multi-agent support/triage system built with LangGraph — agents collaborate rather than a single monolithic chain.
+Splits triage work across cooperating agents instead of asking one giant prompt to do everything at once.
 `LangGraph` · `Agentic Workflows` · `LLM Orchestration`
 
 ### 📧 Spam Email Classifier
-Full pipeline from raw text to deployment-ready model — 97.5% accuracy.
+Raw text in, deployable model out — 97.5% accuracy.
 `Python` · `NLTK` · `Multinomial Naive Bayes` · `Scikit-learn`
 
 ### 🏠 House Price Predictor
-Regression on California housing data, deployed as an interactive Streamlit app with feature-importance breakdowns.
+Regression on California housing data, wrapped in a Streamlit app so you can actually see which features are driving a prediction.
 `Linear Regression` · `Scikit-learn` · `Streamlit`
 
-> 📌 *Each project above is built from scratch with production concerns in mind: containerized serving, experiment tracking, and reproducible pipelines — not just a training script.*
+> 📌 *None of these are just training scripts — each one ships with an API, tracking, and a container around it.*
 
 <br/>
 
@@ -170,9 +170,9 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 
 ![🎓 Currently](https://img.shields.io/badge/🎓_CURRENTLY-4A6FE3?style=for-the-badge&logoColor=white)
 
-- Pursuing MCA (AI/ML specialization) — Uttaranchal University
-- Building production-grade ML/CV/agentic-AI projects, one per target role
-- Open to **Data Scientist / Machine Learning Engineer** opportunities
+- Doing an MCA (AI/ML) at Uttaranchal University
+- Building a new project for basically every role I apply to — CV, predictive maintenance, agents, whatever the job actually needs
+- Open to **Data Scientist / Machine Learning Engineer** roles
 
 <br/>
 
