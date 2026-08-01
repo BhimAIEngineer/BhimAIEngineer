@@ -61,12 +61,12 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 <td valign="top" width="50%">
 
 #### 📈 Data Science & Classical ML
-![EDA](https://img.shields.io/badge/-EDA-6C5CE7?style=flat-square) ![A/B Testing](https://img.shields.io/badge/-A/B_Testing-6C5CE7?style=flat-square) ![XGBoost](https://img.shields.io/badge/-XGBoost-6C5CE7?style=flat-square&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/-LightGBM-6C5CE7?style=flat-square) ![Random Forest](https://img.shields.io/badge/-Random_Forest-6C5CE7?style=flat-square) ![SVM](https://img.shields.io/badge/-SVM-6C5CE7?style=flat-square) ![Clustering](https://img.shields.io/badge/-Clustering-6C5CE7?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-6C5CE7?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-6C5CE7?style=flat-square&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-6C5CE7?style=flat-square&logo=postgresql&logoColor=white)
+![EDA](https://img.shields.io/badge/-EDA-6C5CE7?style=flat-square) ![A/B Testing](https://img.shields.io/badge/-A/B_Testing-6C5CE7?style=flat-square) ![XGBoost](https://img.shields.io/badge/-XGBoost-6C5CE7?style=flat-square&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/-LightGBM-6C5CE7?style=flat-square) ![Random Forest](https://img.shields.io/badge/-Random_Forest-6C5CE7?style=flat-square) ![SVM](https://img.shields.io/badge/-SVM-6C5CE7?style=flat-square) ![Clustering](https://img.shields.io/badge/-Clustering-6C5CE7?style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-6C5CE7?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-6C5CE7?style=flat-square&logo=numpy&logoColor=white)
 - **EDA & Statistics** — hypothesis testing, A/B testing, distribution analysis, outlier detection
 - **Feature Engineering** — encoding, scaling, imputation, dimensionality reduction, custom pipelines
 - **Classical ML** — XGBoost, LightGBM, Random Forest, SVM, regression, clustering (k-means, hierarchical)
 - **Model Evaluation** — cross-validation, ROC-AUC, F1, RMSE, calibration curves, business-metric alignment
-- **Tooling** — Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+- **Tooling** — Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
 - **Applied EDA** — deep exploratory analysis on structured & unstructured client data, missing-value and outlier strategies for messy real-world datasets
 
 #### 🧠 Deep Learning
@@ -85,6 +85,14 @@ Regression on California housing data, deployed as an interactive Streamlit app 
 - **Transformer-based NLP** — BERT fine-tuning for domain-specific tasks
 - **Retrieval-Aware NLP** — semantic search, document Q&A, RAG-style pipelines over unstructured text
 - **Applied NLP** — production text classification & document processing pipelines built for real client use cases
+
+#### 🗄️ SQL & Microsoft Office
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white) ![Word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+- **SQL** — writing and optimizing queries (joins, aggregations, window functions) for data extraction, EDA, and reporting from relational databases
+- **Excel** — pivot tables, formulas, data cleaning, and dashboards for quick business-facing analysis
+- **PowerPoint** — building project reports and stakeholder-facing presentations (used for MCA coursework submissions and client-facing decks)
+- **Word** — structured documentation, project reports, and technical write-ups
+- **Business Reporting** — translating model outputs and analysis into clear, non-technical summaries for stakeholders
 
 </td>
 <td valign="top" width="50%">
