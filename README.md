@@ -31,7 +31,7 @@ Right now I'm deep into production ML systems, computer vision for industrial us
 Catches defects on a manufacturing line as they happen, instead of after the batch has already shipped.
 `YOLOv8` `FastAPI` `Docker` `MLflow` `GitHub Actions CI` `Streamlit dashboard`
 
-**🏥 Disease Prediction & Medical Diagnosis System**
+**🏥 [Disease Prediction & Medical Diagnosis System](https://github.com/BhimAIEngineer/healthcare-triage-agent)**
 Combines image-based and tabular models for diagnosis, with SHAP baked in so a doctor isn't just told "trust the model."
 `ResNet50 (94% acc.)` `Custom ANN (+6% over baseline)` `SHAP` `FastAPI` `Docker` `MLflow` `CI/CD`
 
