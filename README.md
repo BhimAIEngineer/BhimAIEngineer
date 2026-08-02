@@ -35,7 +35,7 @@ Catches defects on a manufacturing line as they happen, instead of after the bat
 Combines image-based and tabular models for diagnosis, with SHAP baked in so a doctor isn't just told "trust the model."
 `ResNet50 (94% acc.)` `Custom ANN (+6% over baseline)` `SHAP` `FastAPI` `Docker` `MLflow` `CI/CD`
 
-**✈️ Turbofan Predictive Maintenance (Remaining Useful Life)**
+**✈️ [Turbofan Predictive Maintenance (Remaining Useful Life)](https://github.com/BhimAIEngineer/predictive-maintenance-rul)**
 Predicts how much life is left in a turbofan engine using NASA's CMAPSS data, then runs the numbers on what that's actually worth compared to reactive maintenance.
 `Feature Engineering` `Linear Regression / Random Forest / XGBoost` `LSTM` `FastAPI` `Streamlit` `Cost-Simulation`
 
