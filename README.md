@@ -15,7 +15,7 @@
 
 <br/>
 
-### 👨‍💻 About Me
+### 👨‍💻 About 
 
 I spent 3.8 years at TCS on the Walmart Global Tech account as a Data Scientist, mostly demand forecasting, NLP pipelines, and computer vision for real business problems. Somewhere in there I got tired of models that worked great in a notebook and then just... sat there. Nobody was actually shipping them.
 
