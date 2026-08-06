@@ -151,16 +151,6 @@ Regression on California housing data, wrapped in a Streamlit app so you can act
 
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=BhimAIEngineer&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
-<br/>
-
 ### 🎓 Currently
 
 - Doing an MCA (AI/ML) at Uttaranchal University
