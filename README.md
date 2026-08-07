@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c9ff&height=230&section=header&text=BHIM.exe&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=%3C%20Machine%20Learning%20Engineer%20%2F%2F%20Data%20Scientist%20%3E&descAlignY=52&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=BHIM%20RAJBHAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=18" />
+
+<br/>
 
 <a href="https://github.com/BhimAIEngineer">
-<img src="https://readme-typing-svg.demolab.com/?lines=booting+bhim.ai+kernel...;loading+3.8+yrs+of+production+ML...;mounting+%2Fdev%2Fagents...;system+ready.+status%3A+OPEN_TO_WORK+%5B%E2%9C%93%5D&font=Fira+Code&center=true&width=680&height=45&color=00C9FF&vCenter=true&size=20&pause=1400&background=00000000" />
+<img src="https://readme-typing-svg.demolab.com/?lines=%3E+initializing_bhim.ai...;%3E+3.8+yrs+shipping+ML+%40+TCS+%2F+Walmart;%3E+training+agents%2C+not+just+models;%3E+status%3A+open_to_work+%5B%E2%9C%93%5D&font=Fira+Code&center=true&width=650&height=50&color=00C9FF&vCenter=true&size=22&pause=1500&background=00000000" />
 </a>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhimaiengineer)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bhimaiengineer)
@@ -17,51 +21,14 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-```ini
-[neofetch]
-user@github        ~  bhim@BhimAIEngineer
--------------------   ---------------------------------
-OS                 :  Production ML Systems
-Uptime             :  3.8 yrs @ TCS (Walmart Global Tech)
-Currently Running  :  MCA (AI/ML) @ Uttaranchal University
-Background Process :  ML Intern @ SmartED Innovations
-Shell              :  Python / FastAPI / Docker
-Packages (core)    :  PyTorch, LangGraph, YOLOv8, MLflow
-Resolution         :  notebook --> API --> container --> prod
-Theme              :  ship-it-dont-notebook-it [dark]
-CPU Usage          :  training agents, not excuses
-Memory             :  every project = one deployed thing
-```
-
-</td>
-<td width="45%" valign="top">
-
 ```yaml
-> philosophy.yaml
-belief: >
-  a model that never leaves
-  the notebook never shipped
-  anything.
-loop:
-  - train
-  - track
-  - containerize
-  - serve
-  - repeat
-focus:
-  - production ML systems
-  - computer vision (industrial)
-  - predictive maintenance
-  - multi-agent LLM systems
+> whoami:
+    role: "Machine Learning Engineer / Data Scientist"
+    background: "3.8 yrs @ TCS — Walmart Global Tech (forecasting, NLP, CV)"
+    now: "MCA (AI/ML) @ Uttaranchal University | ML Intern @ SmartED Innovations"
+    philosophy: "a model that never leaves the notebook never shipped anything"
+    focus: ["production ML systems", "computer vision", "predictive maintenance", "multi-agent LLM systems"]
 ```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -118,19 +85,6 @@ focus:
 </tr>
 </table>
 
-<details>
-<summary align="center"><b>📦 more builds (click to expand)</b></summary>
-
-<br/>
-
-**📧 Spam Email Classifier** — raw text in, deployable model out. 97.5% accuracy.
-`Python` `NLTK` `Multinomial Naive Bayes` `Scikit-learn`
-
-**🏠 House Price Predictor** — regression on California housing data, wrapped in a Streamlit app so you can see which features are driving a prediction.
-`Linear Regression` `Scikit-learn` `Streamlit`
-
-</details>
-
 <div align="center">
 <sub>📌 every project ships with an API, experiment tracking, and a container — none of these are just training scripts</sub>
 </div>
@@ -141,67 +95,48 @@ focus:
 
 ## 🧠 tech_stack.json
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,docker,mysql,git,github,aws,gcp,azure,linux,vscode&theme=dark&perline=8" />
-
 </div>
-
-<details>
-<summary align="center"><b>🔍 expand full stack breakdown</b></summary>
-
-<br/>
 
 <div align="center">
 
 **Data Science / Classical ML**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-0d6efd?style=flat-square)
-![LightGBM](https://img.shields.io/badge/-LightGBM-0d6efd?style=flat-square)
-![Scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-0d6efd?style=for-the-badge)
+![Scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Deep Learning**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 **NLP**
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![NLTK](https://img.shields.io/badge/-NLTK-306998?style=flat-square)
-![BERT](https://img.shields.io/badge/-BERT-FF6F61?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLTK](https://img.shields.io/badge/-NLTK-306998?style=for-the-badge)
+![BERT](https://img.shields.io/badge/-BERT-FF6F61?style=for-the-badge)
 
 **Generative AI / Agents**
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
-![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/-FAISS-4B8BBE?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-4B8BBE?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-4B8BBE?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-4B8BBE?style=for-the-badge)
 
 **Computer Vision**
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logoColor=black)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **MLOps / Deployment**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Cloud**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-</div>
-
-</details>
-
-<br/>
-
-<div align="center">
-
-## 🏆 trophy_case.render()
-
-<img src="https://github-profile-trophy.vercel.app/?username=BhimAIEngineer&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
@@ -221,18 +156,6 @@ focus:
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhimAIEngineer&theme=react-dark&hide_border=true&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🐍 contribution_snake.gif
-
-<img src="https://raw.githubusercontent.com/BhimAIEngineer/BhimAIEngineer/output/github-contribution-grid-snake-dark.svg" />
-
-<sub>⚙️ generated by a GitHub Action that eats your contribution graph — one-time setup, see note below</sub>
 
 </div>
 
