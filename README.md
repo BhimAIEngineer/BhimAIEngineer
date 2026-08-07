@@ -1,7 +1,6 @@
-
 <div align="center">
 
-# Hi, I'm Bhim Rajbhar👋
+# Hi, I'm Bhim Rajbhar 👋
 ### Machine Learning Engineer · Data Scientist. I'd rather ship something than keep polishing it in a notebook.
 
 **ML Intern @ SmartED Innovations · Ex-Data Scientist @ TCS (Walmart Global Tech, 3.8 yrs) · MCA (AI/ML)**
@@ -11,11 +10,13 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhimrajbhar.ai.engineer@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhimAIEngineer)
 
+<img src="https://komarev.com/ghpvc/?username=BhimAIEngineer&label=Profile%20Views&color=00C9FF&style=for-the-badge" />
+
 </div>
 
 <br/>
 
-### 👨‍💻 About Me 
+### 👨‍💻 About Me
 
 I spent 3.8 years at TCS on the Walmart Global Tech account as a Data Scientist, mostly demand forecasting, NLP pipelines, and computer vision for real business problems. Somewhere in there I got tired of models that worked great in a notebook and then just... sat there. Nobody was actually shipping them.
 
@@ -52,6 +53,19 @@ Regression on California housing data, wrapped in a Streamlit app so you can act
 `Linear Regression` `Scikit-learn` `Streamlit`
 
 > 📌 *None of these are just training scripts. Each one ships with an API, tracking, and a container around it.*
+
+<br/>
+
+### 📌 Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/BhimAIEngineer/industrial-defect-detection"><img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=BhimAIEngineer&repo=industrial-defect-detection&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/BhimAIEngineer/healthcare-triage-agent"><img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=BhimAIEngineer&repo=healthcare-triage-agent&theme=tokyonight&hide_border=true" /></a>
+<br/>
+<a href="https://github.com/BhimAIEngineer/predictive-maintenance-rul"><img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=BhimAIEngineer&repo=predictive-maintenance-rul&theme=tokyonight&hide_border=true" /></a>
+
+</div>
 
 <br/>
 
@@ -142,6 +156,27 @@ Regression on California housing data, wrapped in a Streamlit app so you can act
 
 <br/>
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=BhimAIEngineer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhimAIEngineer&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhimAIEngineer&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhimAIEngineer&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+> 💡 *These widgets are served live from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) — they'll update automatically as your GitHub activity changes, no need to touch this file again.*
+
+<br/>
+
 ### 💼 Experience
 
 | Role | Company | Duration |
@@ -162,7 +197,5 @@ Regression on California housing data, wrapped in a Streamlit app so you can act
 <div align="center">
 
 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/bhimaiengineer) · [Kaggle](https://kaggle.com/bhimaiengineer) · [Email](mailto:bhimrajbhar.ai.engineer@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=BhimAIEngineer&label=Profile%20Views&color=00C9FF&style=flat)
 
 </div>
