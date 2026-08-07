@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Bhim👋
+# Hi, I'm Bhim Rajbhar👋
 ### Machine Learning Engineer · Data Scientist. I'd rather ship something than keep polishing it in a notebook.
 
 **ML Intern @ SmartED Innovations · Ex-Data Scientist @ TCS (Walmart Global Tech, 3.8 yrs) · MCA (AI/ML)**
