@@ -15,7 +15,7 @@
 
 ## About Me
 
-Machine Learning Engineer / Data Scientist with 3.8 years of experience at **TCS**, working on the **Walmart Global Tech** account across demand forecasting, NLP, and computer vision. Currently pursuing an **MCA specializing in AI/ML** at Uttaranchal University, and working as an **ML Intern at SmartED Innovations**.
+Machine Learning Engineer / Data Scientist with 3.8 years of experience at **TCS**, working on **a Fortune 500 retail technology account** across demand forecasting, NLP, and computer vision. Currently pursuing an **MCA specializing in AI/ML** at Uttaranchal University, and working as an **ML Intern at SmartED Innovations**.
 
 I build complete, deployable ML systems rather than notebook-only experiments — each project below ships with an API, containerization, and (where relevant) experiment tracking.
 
@@ -30,7 +30,7 @@ I build complete, deployable ML systems rather than notebook-only experiments �
 |---|---|---|
 | Jun 2026 – Present | ML Intern | SmartED Innovations (EdTech, remote) |
 | Aug 2025 – Present | MCA, AI/ML Specialization | Uttaranchal University |
-| ~3.8 yrs, ended Jul 2025 | Data Scientist | TCS — Walmart Global Tech account |
+| ~3.8 yrs, ended Jul 2025 | Data Scientist | TCS — Fortune 500 retail technology account |
 
 <br/>
 
