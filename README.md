@@ -146,8 +146,8 @@
 
 ## 📡 live_metrics.stream()
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=BhimAIEngineer&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=00c9ff&text_color=c9d1d9&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhimAIEngineer&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00c9ff&text_color=c9d1d9" />
+<img height="165em" src="github-stats-extended.vercel.app/api?username=BhimAIEngineer&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=00c9ff&text_color=c9d1d9&count_private=true" />
+<img height="165em" src="github-stats-extended.vercel.app/api/top-langs/?username=BhimAIEngineer&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00c9ff&text_color=c9d1d9" />
 
 <br/>
 
