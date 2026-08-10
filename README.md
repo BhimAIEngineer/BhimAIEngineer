@@ -42,6 +42,11 @@ End-to-end machine learning framework for customer churn prediction and cohort-b
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Feature Engineering` `Churn Prediction` `Cohort Analysis` `LTV Modeling` `Model Evaluation`
 
+### 🧪 [Search Algorithm A/B Test — Impact Analysis Framework](https://github.com/BhimAIEngineer/ab-testing-framework)
+End-to-end experimentation framework for evaluating a new search ranking algorithm through statistical testing, experiment health checks, CUPED variance reduction, and interactive impact analysis.
+
+Python Pandas SciPy Streamlit A/B Testing Hypothesis Testing CUPED SRM Analysis Bootstrap CI Chi-Square Welch's t-test Mann-Whitney U
+
 ### 🏭 [Industrial Defect Detection System](https://github.com/BhimAIEngineer/industrial-defect-detection)
 Real-time computer vision system for catching manufacturing defects on the line before the part ships.
 `YOLOv8` `FastAPI` `Docker` `MLflow` `CI/CD` `Streamlit`
