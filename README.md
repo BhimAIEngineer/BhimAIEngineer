@@ -39,6 +39,7 @@ I build complete, deployable ML systems rather than notebook-only experiments �
 
 ### 👥 [Customer Churn & Cohort LTV Prediction](https://github.com/BhimAIEngineer/churn-ltv-framework)
 End-to-end machine learning framework for customer churn prediction and cohort-based Customer Lifetime Value (LTV) estimation, focused on customer segmentation, retention analysis, and data-driven business insights.
+
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Feature Engineering` `Churn Prediction` `Cohort Analysis` `LTV Modeling` `Model Evaluation`
 
 ### 🏭 [Industrial Defect Detection System](https://github.com/BhimAIEngineer/industrial-defect-detection)
