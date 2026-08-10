@@ -37,6 +37,8 @@ I build complete, deployable ML systems rather than notebook-only experiments �
 
 ## Featured Projects
 
+### 🏭 [Customer Churn & Cohort LTV Prediction](https://github.com/BhimAIEngineer/churn-ltv-framework)
+
 ### 🏭 [Industrial Defect Detection System](https://github.com/BhimAIEngineer/industrial-defect-detection)
 Real-time computer vision system for catching manufacturing defects on the line before the part ships.
 `YOLOv8` `FastAPI` `Docker` `MLflow` `CI/CD` `Streamlit`
