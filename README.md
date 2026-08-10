@@ -45,7 +45,7 @@ End-to-end machine learning framework for customer churn prediction and cohort-b
 ### 🧪 [Search Algorithm A/B Test — Impact Analysis Framework](https://github.com/BhimAIEngineer/ab-testing-framework)
 End-to-end experimentation framework for evaluating a new search ranking algorithm through statistical testing, experiment health checks, CUPED variance reduction, and interactive impact analysis.
 
-Python Pandas SciPy Streamlit A/B Testing Hypothesis Testing CUPED SRM Analysis Bootstrap CI Chi-Square Welch's t-test Mann-Whitney U
+'Python' 'Pandas' 'SciPy' 'Streamlit' 'A/B Testing' 'Hypothesis Testing' 'CUPED' 'SRM Analysis' 'Bootstrap' 'CI' 'Chi-Square'   'Welch's t-test' Mann-Whitney U' 'Experiment Analysis'
 
 ### 🏭 [Industrial Defect Detection System](https://github.com/BhimAIEngineer/industrial-defect-detection)
 Real-time computer vision system for catching manufacturing defects on the line before the part ships.
