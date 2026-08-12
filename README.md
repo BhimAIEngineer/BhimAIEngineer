@@ -11,6 +11,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhimrajbhar.ai.engineer@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhimAIEngineer)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=BhimAIEngineer&color=00c9ff&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/BhimAIEngineer?style=flat-square&color=00c9ff&label=Followers)
+
 </div>
 
 <br/>
@@ -26,6 +31,20 @@ I build complete, deployable ML systems rather than notebook-only experiments �
 
 <br/>
 
+## Contents
+
+- [Experience](#experience)
+- [Featured Projects](#featured-projects)
+- [Technical Skills](#technical-skills)
+- [GitHub Stats](#github-stats)
+- [Activity Graph](#activity-graph)
+- [Trophies](#trophies)
+- [Contribution Snake](#contribution-snake)
+- [LeetCode Stats](#leetcode-stats)
+- [Get in Touch](#get-in-touch)
+
+<br/>
+
 ## Experience
 
 | Period | Role | Organization |
@@ -38,31 +57,59 @@ I build complete, deployable ML systems rather than notebook-only experiments �
 
 ## Featured Projects
 
-### 👥 [Customer Churn & Cohort LTV Prediction](https://github.com/BhimAIEngineer/churn-ltv-framework)
+<details open>
+<summary><b>👥 <a href="https://github.com/BhimAIEngineer/churn-ltv-framework">Customer Churn & Cohort LTV Prediction</a></b></summary>
+<br/>
+
 End-to-end machine learning framework for customer churn prediction and cohort-based Customer Lifetime Value (LTV) estimation, focused on customer segmentation, retention analysis, and data-driven business insights.
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Feature Engineering` `Churn Prediction` `Cohort Analysis` `LTV Modeling` `Model Evaluation`
+</details>
 
-### 🧪 [Search Algorithm A/B Test — Impact Analysis Framework](https://github.com/BhimAIEngineer/ab-testing-framework)
+<details>
+<summary><b>🧪 <a href="https://github.com/BhimAIEngineer/ab-testing-framework">Search Algorithm A/B Test — Impact Analysis Framework</a></b></summary>
+<br/>
+
 End-to-end experimentation framework for evaluating a new search ranking algorithm through statistical testing, experiment health checks, CUPED variance reduction, and interactive impact analysis.
 
-`Python` `Pandas` `SciPy` `Streamlit` `A/B Testing` `Hypothesis Testing` `CUPED` `SRM Analysis` `Bootstrap` `CI` `Chi-Square`   `Welch's t-test` `Mann-Whitney U` `Experiment Analysis`
+`Python` `Pandas` `SciPy` `Streamlit` `A/B Testing` `Hypothesis Testing` `CUPED` `SRM Analysis` `Bootstrap` `CI` `Chi-Square` `Welch's t-test` `Mann-Whitney U` `Experiment Analysis`
+</details>
 
-### 🏭 [Industrial Defect Detection System](https://github.com/BhimAIEngineer/industrial-defect-detection)
+<details>
+<summary><b>🏭 <a href="https://github.com/BhimAIEngineer/industrial-defect-detection">Industrial Defect Detection System</a></b></summary>
+<br/>
+
 Real-time computer vision system for catching manufacturing defects on the line before the part ships.
+
 `YOLOv8` `FastAPI` `Docker` `MLflow` `CI/CD` `Streamlit`
+</details>
 
-### 🏥 [Healthcare Triage Agent](https://github.com/BhimAIEngineer/healthcare-triage-agent)
+<details>
+<summary><b>🏥 <a href="https://github.com/BhimAIEngineer/healthcare-triage-agent">Healthcare Triage Agent</a></b></summary>
+<br/>
+
 Combines image-based and tabular diagnosis into one system, with SHAP explainability so predictions are interpretable rather than a black box.
+
 `ResNet50 (94% accuracy)` `Custom ANN` `SHAP` `FastAPI` `Docker`
+</details>
 
-### ✈️ [Predictive Maintenance — Remaining Useful Life](https://github.com/BhimAIEngineer/predictive-maintenance-rul)
+<details>
+<summary><b>✈️ <a href="https://github.com/BhimAIEngineer/predictive-maintenance-rul">Predictive Maintenance — Remaining Useful Life</a></b></summary>
+<br/>
+
 Remaining Useful Life prediction on NASA CMAPSS turbofan engine data, backed by a cost-simulation model showing the case for predictive over reactive maintenance.
-`XGBoost` `LSTM` `FastAPI` `Streamlit` `Cost Simulation`
 
-### 🤖 [Multi-Agent Healthcare Triage Assistant](https://github.com/BhimAIEngineer/multi-agent-healthcare-triage) — *in progress*
+`XGBoost` `LSTM` `FastAPI` `Streamlit` `Cost Simulation`
+</details>
+
+<details>
+<summary><b>🤖 <a href="https://github.com/BhimAIEngineer/multi-agent-healthcare-triage">Multi-Agent Healthcare Triage Assistant</a></b> — <i>in progress</i></summary>
+<br/>
+
 Cooperating LangGraph agents dividing triage work instead of a single monolithic prompt.
+
 `LangGraph` `Agentic Workflows` `LLM Orchestration`
+</details>
 
 <br/>
 
@@ -119,6 +166,38 @@ Cooperating LangGraph agents dividing triage work instead of a single monolithic
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhimAIEngineer&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00c9ff&fire=00c9ff&currStreakLabel=00c9ff" />
+
+</div>
+
+<br/>
+
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhimAIEngineer&theme=react-dark&hide_border=true&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff" width="100%" />
+
+</div>
+
+<br/>
+
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BhimAIEngineer&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+<br/>
+
+## Contribution Snake
+
+This animation is regenerated daily by a GitHub Action (`.github/workflows/snake.yml`) that renders your live contribution graph as a snake eating each square, then publishes the SVG to an `output` branch.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BhimAIEngineer/BhimAIEngineer/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
 
 </div>
 
