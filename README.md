@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-00c9ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bhimaiengineer.github.io/bhim-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhimaiengineer)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bhimaiengineer)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/bhim-rajbhar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhimrajbhar.ai.engineer@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhimAIEngineer)
 
@@ -123,9 +124,19 @@ Cooperating LangGraph agents dividing triage work instead of a single monolithic
 
 <br/>
 
+## LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/bhim-rajbhar?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
+
+<br/>
+
 ## Get in Touch
 
-📫 [Portfolio](https://bhimaiengineer.github.io/bhim-portfolio/) · [LinkedIn](https://linkedin.com/in/bhimaiengineer) · [Kaggle](https://kaggle.com/bhimaiengineer) · [Email](mailto:bhimrajbhar.ai.engineer@gmail.com)
+📫 [Portfolio](https://bhimaiengineer.github.io/bhim-portfolio/) · [LinkedIn](https://linkedin.com/in/bhimaiengineer) · [Kaggle](https://kaggle.com/bhimaiengineer) · [LeetCode](https://leetcode.com/bhim-rajbhar) · [Email](mailto:bhimrajbhar.ai.engineer@gmail.com)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:0f2027&height=90&section=footer" />
