@@ -65,6 +65,26 @@ I build complete, deployable ML systems rather than notebook-only experiments �
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
+### 🪐 Tech Orbit — Live SVG Visualization
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/BhimAIEngineer/BhimAIEngineer/main/tech-orbit.svg" width="480" alt="Animated Tech Orbit" />
+</div>
+
+> *💡 Custom-built SVG (not a third-party badge). Place `tech-orbit.svg` in the root of your `BhimAIEngineer/BhimAIEngineer` profile repo (not inside a subfolder) for this link to render.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
+### 💻 Live Terminal Session
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/BhimAIEngineer/BhimAIEngineer/main/Terminal%20animation.svg" width="95%" alt="Animated Terminal" />
+</div>
+
+> *💡 Custom-built SVG. Place `Terminal animation.svg` in the root of your `BhimAIEngineer/BhimAIEngineer` profile repo (not inside a subfolder) for this link to render.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
