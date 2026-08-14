@@ -1,96 +1,165 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Bhim%20Rajbhar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=230&section=header&text=Bhim%20Rajbhar&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=19" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Hello+World!+%F0%9F%91%8B;I%27m+Bhim+Rajbhar;Machine+Learning+Engineer+%F0%9F%A4%96;Data+Scientist+%F0%9F%93%8A;Building+production+ML+systems+%E2%9A%99%EF%B8%8F" alt="Animated Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00c9ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bhimaiengineer.github.io/bhim-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhimaiengineer)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/bhimaiengineer)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/bhim-rajbhar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhimrajbhar.ai.engineer@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhimAIEngineer)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,50:2c5364,100:0f2027&height=3&width=680&section=header" width="55%" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BhimAIEngineer&color=00c9ff&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/BhimAIEngineer?style=flat-square&color=00c9ff&label=Followers)
+<a href="https://bhimaiengineer.github.io/bhim-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-00c9ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/bhimaiengineer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/BhimAIEngineer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://kaggle.com/bhimaiengineer">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="https://leetcode.com/bhim-rajbhar">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="mailto:bhimrajbhar.ai.engineer@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=BhimAIEngineer&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/BhimAIEngineer?style=for-the-badge&logo=github&color=00C9FF&labelColor=0D1117" alt="GitHub Followers" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-00FF88?style=for-the-badge&labelColor=0D1117" alt="Open to Work" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="Animated Divider" />
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
-## About Me
+## 👨‍💻 About Me
 
-Machine Learning Engineer / Data Scientist with 3.8 years of experience at **TCS**, working on **a Fortune 500 retail technology account** across demand forecasting, NLP, and computer vision. Currently pursuing an **MCA specializing in AI/ML** at Uttaranchal University, and working as an **ML Intern at SmartED Innovations**.
+<img align="right" width="360" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/desktop.gif" alt="Coding Animation" />
 
-I build complete, deployable ML systems rather than notebook-only experiments — each project below ships with an API, containerization, and (where relevant) experiment tracking.
+Machine Learning Engineer / Data Scientist with **3.8 years of experience at TCS**, working on a Fortune 500 retail technology account across demand forecasting, NLP, and computer vision. Currently pursuing an **MCA specializing in AI/ML** at Uttaranchal University, and working as an **ML Intern at SmartED Innovations**.
 
-**Current focus:** production ML systems, computer vision, predictive maintenance, multi-agent LLM systems
-**Open to:** Data Scientist / Machine Learning Engineer roles
+I build complete, deployable ML systems rather than notebook-only experiments — each project ships with an API, containerization, and (where relevant) experiment tracking.
 
-<br/>
+```
+> "Code that ships, not code that stays in a notebook."
+```
 
-## Contents
+🔭 Currently building — **production ML systems for Data Scientist / ML Engineer role applications**
+🌱 Currently learning — **Agentic AI, LangGraph orchestration, MLOps at scale**
+👯 Looking to collaborate on — **computer vision, predictive maintenance & multi-agent LLM systems**
+💬 Ask me about — **Python, ML/DL, NLP, CV, FastAPI, Docker, MLflow**
+📫 Open to — **Data Scientist / Machine Learning Engineer roles**
 
-- [Experience](#experience)
-- [Featured Projects](#featured-projects)
-- [Technical Skills](#technical-skills)
-- [GitHub Stats](#github-stats)
-- [Activity Graph](#activity-graph)
-- [Trophies](#trophies)
-- [Contribution Snake](#contribution-snake)
-- [LeetCode Stats](#leetcode-stats)
-- [Get in Touch](#get-in-touch)
+<br clear="both"/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
-## Experience
+## 📊 GitHub Analytics & Activity
 
-| Period | Role | Organization |
-|---|---|---|
-| Jun 2026 – Present | ML Intern | SmartED Innovations (EdTech, remote) |
-| Aug 2025 – Present | MCA, AI/ML Specialization | Uttaranchal University |
-| ~3.8 yrs, ended Jul 2025 | Data Scientist | TCS — Fortune 500 retail technology account |
+<div align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=BhimAIEngineer&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=ffffff&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhimAIEngineer&theme=radical&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" alt="GitHub Streak" width="48%" />
 
-## Featured Projects
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhimAIEngineer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ffffff&langs_count=10" alt="Top Languages" width="45%" />
+<img src="https://github-profile-trophy.vercel.app/?username=BhimAIEngineer&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhimAIEngineer&bg_color=0D1117&color=00C9FF&line=00C9FF&point=FFFFFF&area=true&hide_border=true&area_color=2C5364" alt="GitHub Contribution Graph" width="95%" />
+
+</div>
+
+> 💡 For a live 3D contribution calendar, add [`profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) as a GitHub Action — it will publish an SVG you can embed here.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+<a href="https://leetcode.com/bhim-rajbhar">
+  <img src="https://leetcard.jacoblin.cool/bhim-rajbhar?theme=dark&font=Baloo%202&ext=heatmap&border=0&hide_border=true&bg_color=0D1117" alt="LeetCode Stats Card" width="95%" />
+</a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
+## 🐍 Contribution Snake Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhimAIEngineer/BhimAIEngineer/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/BhimAIEngineer/BhimAIEngineer/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  </picture>
+</p>
+
+> 💡 Enable this with the [`snk`](https://github.com/Platane/snk) GitHub Action (`.github/workflows/snake.yml`) publishing to an `output` branch.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
+## 💼 Professional Experience
+
+```mermaid
+timeline
+    title Career Timeline
+    2021 – 2025 : Data Scientist @ TCS (Fortune 500 retail account)
+    2025 – Present : MCA, AI/ML Specialization @ Uttaranchal University
+    2026 – Present : ML Intern @ SmartED Innovations
+```
+
+| Role | Organization | Duration | Focus |
+|:---|:---|:---|:---|
+| 🟢 **ML Intern** | SmartED Innovations (EdTech, remote) | Jun 2026 – Present | ML model training, data pipelines, NLP/LLM features |
+| 🔵 **MCA, AI/ML Specialization** | Uttaranchal University | Aug 2025 – Present | Python, ML, Deep Learning, NLP, Data Viz |
+| 🟣 **Data Scientist** | TCS — Fortune 500 retail technology account | ~3.8 yrs, ended Jul 2025 | Demand forecasting, NLP, computer vision |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
+## 🛠️ Featured Projects
 
 <details open>
 <summary><b>👥 <a href="https://github.com/BhimAIEngineer/churn-ltv-framework">Customer Churn & Cohort LTV Prediction</a></b></summary>
 <br/>
 
-End-to-end machine learning framework for customer churn prediction and cohort-based Customer Lifetime Value (LTV) estimation, focused on customer segmentation, retention analysis, and data-driven business insights.
+End-to-end ML framework for customer churn prediction and cohort-based Customer Lifetime Value estimation, focused on segmentation, retention analysis, and data-driven business insights.
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Feature Engineering` `Churn Prediction` `Cohort Analysis` `LTV Modeling` `Model Evaluation`
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Feature Engineering` `Churn Prediction` `Cohort Analysis` `LTV Modeling`
 </details>
 
 <details>
 <summary><b>🧪 <a href="https://github.com/BhimAIEngineer/ab-testing-framework">Search Algorithm A/B Test — Impact Analysis Framework</a></b></summary>
 <br/>
 
-End-to-end experimentation framework for evaluating a new search ranking algorithm through statistical testing, experiment health checks, CUPED variance reduction, and interactive impact analysis.
+End-to-end experimentation framework for evaluating a new search ranking algorithm: statistical testing, experiment health checks, CUPED variance reduction, and interactive impact analysis.
 
-`Python` `Pandas` `SciPy` `Streamlit` `A/B Testing` `Hypothesis Testing` `CUPED` `SRM Analysis` `Bootstrap` `CI` `Chi-Square` `Welch's t-test` `Mann-Whitney U` `Experiment Analysis`
+`Python` `Pandas` `SciPy` `Streamlit` `A/B Testing` `CUPED` `SRM Analysis` `Bootstrap CI` `Chi-Square` `Welch's t-test` `Mann-Whitney U`
 </details>
 
 <details>
 <summary><b>🏭 <a href="https://github.com/BhimAIEngineer/industrial-defect-detection">Industrial Defect Detection System</a></b></summary>
 <br/>
 
-Real-time computer vision system for catching manufacturing defects on the line before the part ships.
+Real-time computer vision system for catching manufacturing defects on the line before the part ships. Built with an object-detection pipeline, served via API, containerized, and tracked with an experiment-tracking layer — plus CI and a live dashboard.
 
 `YOLOv8` `FastAPI` `Docker` `MLflow` `CI/CD` `Streamlit`
 </details>
 
 <details>
-<summary><b>🏥 <a href="https://github.com/BhimAIEngineer/healthcare-triage-agent">Healthcare Triage Agent</a></b></summary>
+<summary><b>🏥 <a href="https://github.com/BhimAIEngineer/healthcare-triage-agent">Multi-Agent Healthcare Triage Assistant</a></b> — <i>in progress</i></summary>
 <br/>
 
-Combines image-based and tabular diagnosis into one system, with SHAP explainability so predictions are interpretable rather than a black box.
+Cooperating LangGraph agents dividing triage work instead of a single monolithic prompt, combining image-based and tabular diagnosis into one system with explainable predictions.
 
-`ResNet50 (94% accuracy)` `Custom ANN` `SHAP` `FastAPI` `Docker`
+`LangGraph` `Agentic Workflows` `LLM Orchestration` `SHAP`
 </details>
 
 <details>
@@ -103,17 +172,17 @@ Remaining Useful Life prediction on NASA CMAPSS turbofan engine data, backed by 
 </details>
 
 <details>
-<summary><b>🤖 <a href="https://github.com/BhimAIEngineer/multi-agent-healthcare-triage">Multi-Agent Healthcare Triage Assistant</a></b> — <i>in progress</i></summary>
+<summary><b>🩺 Disease Prediction & Medical Diagnosis System</b></summary>
 <br/>
 
-Cooperating LangGraph agents dividing triage work instead of a single monolithic prompt.
+Production-grade system combining a CNN for image-based diagnosis with a custom ANN for tabular diagnosis, with explainability, an API layer, containerization, and CI.
 
-`LangGraph` `Agentic Workflows` `LLM Orchestration`
+`ResNet50` `Custom ANN` `SHAP` `FastAPI` `Docker` `MLflow` `GitHub Actions`
 </details>
 
 <br/>
 
-## Technical Skills
+## 🧰 Technical Skills
 
 **Data Science / Classical ML**
 ![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white)
@@ -154,69 +223,32 @@ Cooperating LangGraph agents dividing triage work instead of a single monolithic
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
-## GitHub Stats
+## 🎓 Education
 
-<div align="center">
+| Degree | Institution | Year | Highlights |
+|:---|:---|:---|:---|
+| **MCA (AI/ML Specialization)** | Uttaranchal University | 2025 – Present | Python, ML, Deep Learning, NLP, Data Viz |
 
-<img height="165em" src="https://github-stats-extended.vercel.app/api?username=BhimAIEngineer&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=00c9ff&text_color=c9d1d9&count_private=true" />
-<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BhimAIEngineer&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00c9ff&text_color=c9d1d9" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhimAIEngineer&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00c9ff&fire=00c9ff&currStreakLabel=00c9ff" />
-
-</div>
-
-<br/>
-
-## Activity Graph
+## 🌟 Let's Connect!
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhimAIEngineer&theme=react-dark&hide_border=true&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff" width="100%" />
+I'm always open to **collaborations**, **mentorship**, or **exciting opportunities** — feel free to reach out!
 
-</div>
-
-<br/>
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BhimAIEngineer&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
+<a href="mailto:bhimrajbhar.ai.engineer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/bhimaiengineer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/BhimAIEngineer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://kaggle.com/bhimaiengineer"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="https://leetcode.com/bhim-rajbhar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 <br/>
 
-## Contribution Snake
-
-This animation is regenerated daily by a GitHub Action (`.github/workflows/snake.yml`) that renders your live contribution graph as a snake eating each square, then publishes the SVG to an `output` branch.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BhimAIEngineer/BhimAIEngineer/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" />
+**"Building complete, deployable ML systems — one project at a time." ✨**
 
 </div>
 
-<br/>
-
-## LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/bhim-rajbhar?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
-
-</div>
-
-<br/>
-
-## Get in Touch
-
-📫 [Portfolio](https://bhimaiengineer.github.io/bhim-portfolio/) · [LinkedIn](https://linkedin.com/in/bhimaiengineer) · [Kaggle](https://kaggle.com/bhimaiengineer) · [LeetCode](https://leetcode.com/bhim-rajbhar) · [Email](mailto:bhimrajbhar.ai.engineer@gmail.com)
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:0f2027&height=90&section=footer" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=150&section=footer" width="100%" />
