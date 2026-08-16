@@ -113,19 +113,6 @@ I build complete, deployable ML systems rather than notebook-only experiments �
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
-## 🐍 Contribution Snake Game
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BhimAIEngineer/BhimAIEngineer/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/BhimAIEngineer/BhimAIEngineer/output/github-contribution-grid-snake-dark.svg" width="95%" />
-  </picture>
-</p>
-
-> 💡 Enable this with the [`snk`](https://github.com/Platane/snk) GitHub Action (`.github/workflows/snake.yml`) publishing to an `output` branch.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
-
 ## 💼 Professional Experience
 
 ```mermaid
