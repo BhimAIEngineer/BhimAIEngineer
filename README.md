@@ -234,9 +234,12 @@ Production-grade system combining a CNN for image-based diagnosis with a custom 
 
 ## 🎓 Education
 
-| Degree | Institution | Year | Highlights |
+## 🎓 Education
+
+| 🎯 Degree | 🏫 Institution | 📅 Year | 🧩 Highlights |
 |:---|:---|:---|:---|
-| **MCA (AI/ML Specialization)** | Uttaranchal University | 2025 – Present | Python, ML, Deep Learning, NLP, Data Viz |
+| **MCA (AI/ML Specialization)** | Uttaranchal University | 2025 – Present | `Python` `ML` `Deep Learning` `NLP` `Data Viz` |
+| **B.Sc - IT** | University of Mumbai | 2018 – 2021 | `Programming Fundamentals` `DBMS` `Data Structures` `Web Technologies` |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
