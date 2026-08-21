@@ -83,22 +83,19 @@ I build complete, deployable ML systems rather than notebook-only experiments �
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BhimAIEngineer&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=ffffff&include_all_commits=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhimAIEngineer&theme=radical&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" alt="GitHub Streak" width="48%" />
+<a href="https://github.com/BhimAIEngineer">
+  <img src="https://img.shields.io/badge/GitHub-BhimAIEngineer-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhimAIEngineer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ffffff&langs_count=10" alt="Top Languages" width="45%" />
-<img src="https://github-profile-trophy.vercel.app/?username=BhimAIEngineer&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhimAIEngineer&bg_color=0D1117&color=00C9FF&line=00C9FF&point=FFFFFF&area=true&hide_border=true&area_color=2C5364" alt="GitHub Contribution Graph" width="95%" />
+<a href="https://github.com/BhimAIEngineer?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-00C9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
+</a>
 
 </div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
 ## 🧩 LeetCode Stats
 
