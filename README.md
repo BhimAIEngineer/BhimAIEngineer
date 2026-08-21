@@ -55,11 +55,11 @@ I build complete, deployable ML systems rather than notebook-only experiments - 
 > "Code that ships, not code that stays in a notebook."
 ```
 
-🔭 Currently building — **production ML systems for Data Scientist / ML Engineer role applications**
-🌱 Currently learning — **Agentic AI, LangGraph orchestration, MLOps at scale**
-👯 Looking to collaborate on — **computer vision, predictive maintenance & multi-agent LLM systems**
-💬 Ask me about — **Python, ML/DL, NLP, CV, FastAPI, Docker, MLflow**
-📫 Open to — **Data Scientist / Machine Learning Engineer roles**
+🔭 Currently building - **production ML systems for Data Scientist / ML Engineer role applications**
+🌱 Currently learning - **Agentic AI, LangGraph orchestration, MLOps at scale**
+👯 Looking to collaborate on - **computer vision, predictive maintenance & multi-agent LLM systems**
+💬 Ask me about - **Python, ML/DL, NLP, CV, FastAPI, Docker, MLflow**
+📫 Open to - **Data Scientist / Machine Learning Engineer roles**
 
 <br clear="both"/>
 
