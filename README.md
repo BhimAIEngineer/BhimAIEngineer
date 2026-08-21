@@ -49,7 +49,7 @@
 
 Machine Learning Engineer / Data Scientist with **3.8 years of experience at TCS**, working on a Fortune 500 retail technology account across demand forecasting, NLP, and computer vision. Currently pursuing an **MCA specializing in AI/ML** at Uttaranchal University, and working as an **ML Intern at SmartED Innovations**.
 
-I build complete, deployable ML systems rather than notebook-only experiments — each project ships with an API, containerization, and (where relevant) experiment tracking.
+I build complete, deployable ML systems rather than notebook-only experiments - each project ships with an API, containerization, and (where relevant) experiment tracking.
 
 ```
 > "Code that ships, not code that stays in a notebook."
@@ -65,7 +65,7 @@ I build complete, deployable ML systems rather than notebook-only experiments �
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
-### 🪐 Tech Orbit — Live SVG Visualization
+### 🪐 Tech Orbit - Live SVG Visualization
 
 <div align="center">
 <img src="./tech-orbit.svg" width="480" alt="Animated Tech Orbit" />
@@ -134,7 +134,7 @@ End-to-end ML framework for customer churn prediction and cohort-based Customer 
 </details>
 
 <details>
-<summary><b>🧪 <a href="https://github.com/BhimAIEngineer/ab-testing-framework">Search Algorithm A/B Test — Impact Analysis Framework</a></b></summary>
+<summary><b>🧪 <a href="https://github.com/BhimAIEngineer/ab-testing-framework">Search Algorithm A/B Test - Impact Analysis Framework</a></b></summary>
 <br/>
 
 End-to-end experimentation framework for evaluating a new search ranking algorithm: statistical testing, experiment health checks, CUPED variance reduction, and interactive impact analysis.
@@ -146,7 +146,7 @@ End-to-end experimentation framework for evaluating a new search ranking algorit
 <summary><b>🏭 <a href="https://github.com/BhimAIEngineer/industrial-defect-detection">Industrial Defect Detection System</a></b></summary>
 <br/>
 
-Real-time computer vision system for catching manufacturing defects on the line before the part ships. Built with an object-detection pipeline, served via API, containerized, and tracked with an experiment-tracking layer — plus CI and a live dashboard.
+Real-time computer vision system for catching manufacturing defects on the line before the part ships. Built with an object-detection pipeline, served via API, containerized, and tracked with an experiment-tracking layer - plus CI and a live dashboard.
 
 `YOLOv8` `FastAPI` `Docker` `MLflow` `CI/CD` `Streamlit`
 </details>
@@ -161,7 +161,7 @@ Cooperating LangGraph agents dividing triage work instead of a single monolithic
 </details>
 
 <details>
-<summary><b>✈️ <a href="https://github.com/BhimAIEngineer/predictive-maintenance-rul">Predictive Maintenance — Remaining Useful Life</a></b></summary>
+<summary><b>✈️ <a href="https://github.com/BhimAIEngineer/predictive-maintenance-rul">Predictive Maintenance - Remaining Useful Life</a></b></summary>
 <br/>
 
 Remaining Useful Life prediction on NASA CMAPSS turbofan engine data, backed by a cost-simulation model showing the case for predictive over reactive maintenance.
@@ -237,7 +237,7 @@ Production-grade system combining a CNN for image-based diagnosis with a custom 
 
 <div align="center">
 
-I'm always open to **collaborations**, **mentorship**, or **exciting opportunities** — feel free to reach out!
+I'm always open to **collaborations**, **mentorship**, or **exciting opportunities** - feel free to reach out!
 
 <a href="mailto:bhimrajbhar.ai.engineer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/bhimaiengineer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -247,7 +247,7 @@ I'm always open to **collaborations**, **mentorship**, or **exciting opportuniti
 
 <br/>
 
-**"Building complete, deployable ML systems — one project at a time." ✨**
+**"Building complete, deployable ML systems - one project at a time." ✨**
 
 </div>
 
