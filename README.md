@@ -1,52 +1,99 @@
+<div align="center">
+
 # Bhim Rajbhar
 
-**Machine Learning Engineer | Data Scientist**
+### Machine Learning Engineer · Data Scientist
 
-Machine Learning Engineer and Data Scientist with **3.8 years of professional experience at TCS**, working on data science and machine learning initiatives for a Fortune 500 retail technology account.
+**Building machine learning systems that move from experimentation to production.**
 
-My experience spans **machine learning, demand forecasting, natural language processing, computer vision, experimentation, and production ML systems**. I focus on developing solutions that connect model development with practical deployment, APIs, containerization, monitoring, and reproducible workflows.
+[Portfolio](https://bhimaiengineer.github.io/bhim-portfolio/) ·
+[LinkedIn](https://linkedin.com/in/bhimaiengineer) ·
+[GitHub](https://github.com/BhimAIEngineer) ·
+[Kaggle](https://kaggle.com/bhimaiengineer) ·
+[LeetCode](https://leetcode.com/bhim-rajbhar)
 
-Currently pursuing an **MCA with a specialization in AI/ML at Uttaranchal University** and working as an **ML Intern at SmartED Innovations**.
-
-**Open to:** Machine Learning Engineer, Data Scientist, and Applied Machine Learning opportunities.
-
----
-
-## Professional Profile
-
-* 3.8 years of industry experience in Data Science and Machine Learning
-* Experience working with large-scale retail technology use cases
-* Strong foundation in Python, Machine Learning, Deep Learning, NLP, and Computer Vision
-* Experience developing and deploying ML models through APIs and containerized environments
-* Hands-on experience with MLflow, Docker, FastAPI, CI/CD, and experiment tracking
-* Currently exploring Agentic AI, LangGraph, LLM applications, and scalable MLOps
-* Interested in building reliable, maintainable, and production-oriented ML systems
+</div>
 
 ---
 
-## Professional Experience
+## Profile
 
-### ML Intern — SmartED Innovations
+I am a **Machine Learning Engineer and Data Scientist with 3.8 years of industry experience at TCS**, where I worked on data and machine learning solutions for a Fortune 500 retail technology account.
+
+My experience covers **predictive modeling, demand forecasting, NLP, computer vision, experimentation, and data-driven product development**.
+
+I enjoy taking an ML problem through the complete lifecycle — from understanding the business problem and preparing the data to developing the model, exposing it through an API, containerizing the application, and creating a reproducible deployment workflow.
+
+I am currently pursuing an **MCA specializing in AI/ML at Uttaranchal University** and working as an **ML Intern at SmartED Innovations**.
+
+### What I bring
+
+* 3.8 years of professional Data Science experience
+* Experience solving real-world retail technology problems
+* Strong foundation in Machine Learning and Deep Learning
+* Hands-on experience with NLP and Computer Vision
+* Experience building APIs and deployable ML applications
+* Practical exposure to Docker, MLflow and CI/CD
+* Interest in LLM applications and Agentic AI
+* Focus on writing maintainable, production-oriented code
+
+---
+
+## Current Focus
+
+I am currently investing my time in building projects that demonstrate the engineering side of machine learning, not just model training.
+
+**Areas I am exploring:**
+
+`Machine Learning` · `LLM Applications` · `Agentic AI` · `LangGraph` · `MLOps` · `Computer Vision` · `Predictive Maintenance`
+
+My current goal is to build systems that demonstrate the complete path:
+
+```text
+Business Problem
+      ↓
+Data
+      ↓
+Experimentation
+      ↓
+Machine Learning
+      ↓
+Evaluation
+      ↓
+API
+      ↓
+Containerization
+      ↓
+Deployment
+```
+
+---
+
+# Experience
+
+## ML Intern — SmartED Innovations
 
 **Jun 2026 – Present**
 
-Working on machine learning solutions and data-driven features within an EdTech environment.
+Working on machine learning and data-driven solutions in an EdTech environment.
 
-**Key areas:**
+**Areas of contribution**
 
 * Machine learning model development and evaluation
-* Data preparation and pipeline development
-* NLP and LLM-based features
-* Feature engineering and exploratory data analysis
+* Data preparation and feature engineering
+* Data pipeline development
+* NLP and LLM-related features
 * Supporting deployment-oriented ML workflows
 
-### Data Scientist — Tata Consultancy Services (TCS)
+---
 
-**2021 – 2025 | 3.8 Years**
+## Data Scientist — Tata Consultancy Services
 
-Worked on a Fortune 500 retail technology account, contributing to machine learning and data science initiatives across multiple business use cases.
+**2021 – 2025 · 3.8 Years**
 
-**Key areas:**
+Worked on a Fortune 500 retail technology account, contributing to data science and machine learning initiatives across multiple business problems.
+
+**Key areas**
 
 * Demand forecasting
 * Natural Language Processing
@@ -55,39 +102,32 @@ Worked on a Fortune 500 retail technology account, contributing to machine learn
 * Feature engineering
 * Data analysis and visualization
 * Model evaluation and optimization
-* Translating business requirements into data-driven solutions
+* Translating business requirements into machine learning solutions
+
+This experience gave me exposure to the practical challenges involved in applying machine learning to real business environments.
 
 ---
 
-## Education
+# Selected Projects
 
-### Master of Computer Applications — AI/ML Specialization
+I build projects with an emphasis on **business context, engineering quality, reproducibility, and deployment**.
 
-**Uttaranchal University | 2025 – Present**
+## Customer Churn & Cohort LTV Prediction
 
-Relevant coursework includes:
+An end-to-end machine learning framework that combines **customer churn prediction with cohort-based Customer Lifetime Value analysis**.
 
-`Machine Learning` `Deep Learning` `Natural Language Processing` `Python` `Data Visualization` `Information Retrieval` `Advanced Java` `Algorithms`
+The project focuses on understanding customer behavior, identifying high-risk customers, segmenting users, and translating model outputs into business insights.
 
-### Bachelor of Science — Information Technology
+**Highlights**
 
-**University of Mumbai | 2018 – 2021**
+* Customer segmentation
+* Churn prediction
+* Feature engineering
+* Cohort analysis
+* LTV modeling
+* Business-oriented analysis
 
-Relevant coursework includes:
-
-`Data Structures` `DBMS` `OOP` `Computer Networks` `Operating Systems` `Web Technologies` `Software Engineering`
-
----
-
-## Selected Projects
-
-### Customer Churn & Cohort LTV Prediction
-
-End-to-end machine learning framework for predicting customer churn and estimating cohort-based Customer Lifetime Value.
-
-The project focuses on customer segmentation, retention analysis, feature engineering, churn modeling, and business-oriented insights.
-
-**Tech Stack**
+**Stack**
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
 
@@ -95,13 +135,24 @@ The project focuses on customer segmentation, retention analysis, feature engine
 
 ---
 
-### Search Algorithm A/B Testing Framework
+## Search Algorithm A/B Testing Framework
 
-Experimentation framework for evaluating the impact of a search ranking algorithm.
+An experimentation framework designed to evaluate whether a new search ranking algorithm actually improves user behavior.
 
-The implementation includes statistical significance testing, experiment health checks, SRM analysis, CUPED variance reduction, bootstrap confidence intervals, and interactive reporting.
+Rather than relying on a single statistical test, the project incorporates experiment validation and multiple statistical techniques.
 
-**Tech Stack**
+**Includes**
+
+* SRM analysis
+* CUPED variance reduction
+* Bootstrap confidence intervals
+* Welch's t-test
+* Mann-Whitney U test
+* Chi-square testing
+* Experiment health checks
+* Interactive analysis
+
+**Stack**
 
 `Python` `Pandas` `SciPy` `Streamlit`
 
@@ -109,13 +160,22 @@ The implementation includes statistical significance testing, experiment health 
 
 ---
 
-### Industrial Defect Detection System
+## Industrial Defect Detection System
 
-Computer vision application designed to identify manufacturing defects through an object detection pipeline.
+A computer vision system designed to identify manufacturing defects before products leave the production line.
 
-The project demonstrates an end-to-end deployment workflow including model serving, containerization, experiment tracking, CI/CD, and an interactive dashboard.
+The project focuses not only on object detection, but also on how the model can be integrated into a deployable application.
 
-**Tech Stack**
+**Architecture includes**
+
+* YOLOv8 object detection
+* FastAPI inference service
+* Docker containerization
+* MLflow experiment tracking
+* CI/CD workflow
+* Streamlit monitoring interface
+
+**Stack**
 
 `YOLOv8` `FastAPI` `Docker` `MLflow` `Streamlit` `GitHub Actions`
 
@@ -123,13 +183,21 @@ The project demonstrates an end-to-end deployment workflow including model servi
 
 ---
 
-### Multi-Agent Healthcare Triage Assistant
+## Multi-Agent Healthcare Triage Assistant
 
-An ongoing research-oriented project exploring multi-agent workflows for healthcare triage.
+An ongoing project exploring how multiple specialized agents can collaborate on a complex workflow instead of relying on a single LLM prompt.
 
-The system uses LangGraph to coordinate specialized agents and combines image-based and tabular predictions with model explainability.
+The system uses LangGraph to orchestrate different stages of the workflow and combines image-based and tabular predictions with model explainability.
 
-**Tech Stack**
+**Focus**
+
+* Multi-agent orchestration
+* LLM workflows
+* Structured reasoning
+* Image and tabular ML
+* Explainable predictions
+
+**Stack**
 
 `LangGraph` `LLMs` `Agentic Workflows` `SHAP`
 
@@ -137,13 +205,22 @@ The system uses LangGraph to coordinate specialized agents and combines image-ba
 
 ---
 
-### Predictive Maintenance — Remaining Useful Life
+## Predictive Maintenance — Remaining Useful Life
 
-Machine learning system for predicting the Remaining Useful Life of turbofan engines using the NASA CMAPSS dataset.
+A predictive maintenance system built using NASA CMAPSS turbofan engine data to estimate **Remaining Useful Life (RUL)**.
 
-The project combines predictive modeling with a cost simulation to evaluate the business impact of predictive maintenance compared with reactive maintenance.
+The project goes beyond model performance by incorporating a cost simulation to demonstrate the potential business value of predictive maintenance.
 
-**Tech Stack**
+**Focus**
+
+* Time-series modeling
+* RUL prediction
+* XGBoost
+* LSTM
+* Maintenance cost simulation
+* Model serving
+
+**Stack**
 
 `XGBoost` `LSTM` `FastAPI` `Streamlit`
 
@@ -151,23 +228,29 @@ The project combines predictive modeling with a cost simulation to evaluate the 
 
 ---
 
-### Disease Prediction & Medical Diagnosis System
+## Disease Prediction & Medical Diagnosis System
 
-Machine learning application combining image-based and tabular prediction models.
+A machine learning application combining image-based and tabular prediction models into a unified inference system.
 
-The project includes model explainability, API-based inference, containerization, experiment tracking, and automated CI workflows.
+The project focuses on the engineering required to take ML models beyond experimentation.
 
-**Tech Stack**
+**Includes**
+
+* CNN-based image classification
+* ANN-based tabular prediction
+* SHAP-based explainability
+* FastAPI inference layer
+* Docker deployment
+* MLflow tracking
+* GitHub Actions
+
+**Stack**
 
 `ResNet50` `ANN` `SHAP` `FastAPI` `Docker` `MLflow` `GitHub Actions`
 
 ---
 
-## Technical Skills
-
-### Programming & Data
-
-`Python` `SQL` `Pandas` `NumPy` `SciPy` `Matplotlib` `Seaborn`
+# Technical Skills
 
 ### Machine Learning
 
@@ -179,7 +262,7 @@ The project includes model explainability, API-based inference, containerization
 
 ### Natural Language Processing
 
-`Hugging Face` `BERT` `NLTK` `Text Classification` `Embeddings` `NLP`
+`Hugging Face` `BERT` `NLTK` `Text Classification` `Embeddings`
 
 ### Generative AI
 
@@ -188,6 +271,10 @@ The project includes model explainability, API-based inference, containerization
 ### Computer Vision
 
 `OpenCV` `YOLOv8` `Object Detection` `Image Classification` `Image Processing`
+
+### Data & Programming
+
+`Python` `SQL` `Pandas` `NumPy` `SciPy` `Matplotlib` `Seaborn`
 
 ### MLOps & Deployment
 
@@ -199,71 +286,119 @@ The project includes model explainability, API-based inference, containerization
 
 ---
 
-## Engineering Approach
+# Engineering Philosophy
 
-I prefer building machine learning solutions around the complete lifecycle rather than focusing only on model training.
+I believe a machine learning project should demonstrate more than model accuracy.
+
+A useful ML system needs to answer questions such as:
+
+* What problem are we solving?
+* Is the data reliable?
+* How do we measure success?
+* Does the model generalize?
+* How will predictions be served?
+* How can experiments be reproduced?
+* What happens when the model reaches production?
+
+That is why I try to structure my projects around the complete lifecycle:
 
 ```text
 Problem Definition
-        ↓
-Data Collection & Validation
-        ↓
-Exploratory Data Analysis
-        ↓
+       ↓
+Data Collection
+       ↓
+EDA & Validation
+       ↓
 Feature Engineering
-        ↓
+       ↓
 Model Development
-        ↓
-Evaluation & Experimentation
-        ↓
-API / Inference Layer
-        ↓
-Containerization
-        ↓
-Deployment & Monitoring
+       ↓
+Experimentation
+       ↓
+Evaluation
+       ↓
+API / Inference
+       ↓
+Docker
+       ↓
+CI/CD
+       ↓
+Deployment
 ```
 
-This approach helps me build projects that are reproducible, maintainable, and closer to real-world production environments.
+---
+
+# Education
+
+### Master of Computer Applications — AI/ML Specialization
+
+**Uttaranchal University**
+2025 – Present
+
+Relevant areas:
+
+`Machine Learning` `Deep Learning` `NLP` `Python` `Data Visualization` `Information Retrieval` `Algorithms`
+
+### Bachelor of Science — Information Technology
+
+**University of Mumbai**
+2018 – 2021
+
+Relevant areas:
+
+`Data Structures` `DBMS` `OOP` `Computer Networks` `Operating Systems` `Web Technologies`
 
 ---
 
-## Current Focus
+# Problem Solving
 
-I am currently focusing on:
+Alongside machine learning, I regularly practice **Data Structures and Algorithms** to strengthen problem-solving and programming fundamentals.
 
-* Production-oriented machine learning systems
-* Agentic AI and multi-agent workflows
-* LLM applications and RAG
-* MLOps and model deployment
-* Computer vision applications
-* Predictive maintenance
-* Experimentation and statistical modeling
-* Data Scientist and Machine Learning Engineer interview preparation
+[LeetCode Profile](https://leetcode.com/bhim-rajbhar)
 
 ---
 
-## Profiles
+# Beyond the Notebook
 
-| Platform  | Profile                                                                                     |
-| --------- | ------------------------------------------------------------------------------------------- |
-| Portfolio | [bhimaiengineer.github.io/bhim-portfolio](https://bhimaiengineer.github.io/bhim-portfolio/) |
-| LinkedIn  | [linkedin.com/in/bhimaiengineer](https://linkedin.com/in/bhimaiengineer)                    |
-| GitHub    | [github.com/BhimAIEngineer](https://github.com/BhimAIEngineer)                              |
-| Kaggle    | [kaggle.com/bhimaiengineer](https://kaggle.com/bhimaiengineer)                              |
-| LeetCode  | [leetcode.com/bhim-rajbhar](https://leetcode.com/bhim-rajbhar)                              |
+One of the areas I am particularly interested in is the transition from:
+
+**"The model works."**
+
+to:
+
+**"The system works."**
+
+That means thinking about APIs, testing, containers, experiment tracking, reproducibility, monitoring, scalability, and maintainability alongside model performance.
+
+This is the direction I am continuing to develop as I move toward **Machine Learning Engineering and Applied Data Science roles**.
 
 ---
 
-## Contact
+# Connect
 
-I am open to opportunities and collaborations related to:
+I am open to conversations around:
 
-**Machine Learning Engineering · Data Science · Applied Machine Learning · NLP · Computer Vision · MLOps**
+* Machine Learning Engineering
+* Data Science
+* Applied Machine Learning
+* NLP
+* Computer Vision
+* Generative AI
+* MLOps
+* Research and technical collaboration
 
 **Email:** [bhimrajbhar.ai.engineer@gmail.com](mailto:bhimrajbhar.ai.engineer@gmail.com)
 
 **LinkedIn:** [linkedin.com/in/bhimaiengineer](https://linkedin.com/in/bhimaiengineer)
 
+**Portfolio:** [bhimaiengineer.github.io/bhim-portfolio](https://bhimaiengineer.github.io/bhim-portfolio/)
+
 ---
 
-*Building practical machine learning systems from data to deployment.*
+<div align="center">
+
+**Machine Learning · Data · Engineering**
+
+*Turning data and models into systems that can be used.*
+
+</div>
