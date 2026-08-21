@@ -97,7 +97,6 @@ I build complete, deployable ML systems rather than notebook-only experiments �
 
 </div>
 
-> 💡 For a live 3D contribution calendar, add [`profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) as a GitHub Action — it will publish an SVG you can embed here.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
