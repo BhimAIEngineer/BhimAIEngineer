@@ -1,404 +1,260 @@
 <div align="center">
 
-# Bhim Rajbhar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=230&section=header&text=Bhim%20Rajbhar&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist&descAlignY=58&descSize=19" width="100%" />
 
-### Machine Learning Engineer · Data Scientist
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&repeat=true&width=800&height=55&lines=Hello+World!+%F0%9F%91%8B;I%27m+Bhim+Rajbhar;Machine+Learning+Engineer+%F0%9F%A4%96;Data+Scientist+%F0%9F%93%8A;Building+production+ML+systems+%E2%9A%99%EF%B8%8F" alt="Animated Typing SVG" />
 
-**Building machine learning systems that move from experimentation to production.**
+<br/>
 
-[Portfolio](https://bhimaiengineer.github.io/bhim-portfolio/) ·
-[LinkedIn](https://linkedin.com/in/bhimaiengineer) ·
-[GitHub](https://github.com/BhimAIEngineer) ·
-[Kaggle](https://kaggle.com/bhimaiengineer) ·
-[LeetCode](https://leetcode.com/bhim-rajbhar)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,50:2c5364,100:0f2027&height=3&width=680&section=header" width="55%" />
+
+<br/>
+
+<a href="https://bhimaiengineer.github.io/bhim-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-00c9ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/bhimaiengineer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/BhimAIEngineer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://kaggle.com/bhimaiengineer">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<a href="https://leetcode.com/bhim-rajbhar">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="mailto:bhimrajbhar.ai.engineer@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=BhimAIEngineer&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/BhimAIEngineer?style=for-the-badge&logo=github&color=00C9FF&labelColor=0D1117" alt="GitHub Followers" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-00FF88?style=for-the-badge&labelColor=0D1117" alt="Open to Work" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="Animated Divider" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
-## Profile
+## 👨‍💻 About Me
 
-I am a **Machine Learning Engineer and Data Scientist with 3.8 years of industry experience at TCS**, where I worked on data and machine learning solutions for a Fortune 500 retail technology account.
+<img align="right" width="360" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/desktop.gif" alt="Coding Animation" />
 
-My experience covers **predictive modeling, demand forecasting, NLP, computer vision, experimentation, and data-driven product development**.
+Machine Learning Engineer / Data Scientist with **3.8 years of experience at TCS**, working on a Fortune 500 retail technology account across demand forecasting, NLP, and computer vision. Currently pursuing an **MCA specializing in AI/ML** at Uttaranchal University, and working as an **ML Intern at SmartED Innovations**.
 
-I enjoy taking an ML problem through the complete lifecycle — from understanding the business problem and preparing the data to developing the model, exposing it through an API, containerizing the application, and creating a reproducible deployment workflow.
+I build complete, deployable ML systems rather than notebook-only experiments — each project ships with an API, containerization, and (where relevant) experiment tracking.
 
-I am currently pursuing an **MCA specializing in AI/ML at Uttaranchal University** and working as an **ML Intern at SmartED Innovations**.
-
-### What I bring
-
-* 3.8 years of professional Data Science experience
-* Experience solving real-world retail technology problems
-* Strong foundation in Machine Learning and Deep Learning
-* Hands-on experience with NLP and Computer Vision
-* Experience building APIs and deployable ML applications
-* Practical exposure to Docker, MLflow and CI/CD
-* Interest in LLM applications and Agentic AI
-* Focus on writing maintainable, production-oriented code
-
----
-
-## Current Focus
-
-I am currently investing my time in building projects that demonstrate the engineering side of machine learning, not just model training.
-
-**Areas I am exploring:**
-
-`Machine Learning` · `LLM Applications` · `Agentic AI` · `LangGraph` · `MLOps` · `Computer Vision` · `Predictive Maintenance`
-
-My current goal is to build systems that demonstrate the complete path:
-
-```text
-Business Problem
-      ↓
-Data
-      ↓
-Experimentation
-      ↓
-Machine Learning
-      ↓
-Evaluation
-      ↓
-API
-      ↓
-Containerization
-      ↓
-Deployment
+```
+> "Code that ships, not code that stays in a notebook."
 ```
 
----
+🔭 Currently building — **production ML systems for Data Scientist / ML Engineer role applications**
+🌱 Currently learning — **Agentic AI, LangGraph orchestration, MLOps at scale**
+👯 Looking to collaborate on — **computer vision, predictive maintenance & multi-agent LLM systems**
+💬 Ask me about — **Python, ML/DL, NLP, CV, FastAPI, Docker, MLflow**
+📫 Open to — **Data Scientist / Machine Learning Engineer roles**
 
-# Experience
+<br clear="both"/>
 
-## ML Intern — SmartED Innovations
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
-**Jun 2026 – Present**
+### 🪐 Tech Orbit — Live SVG Visualization
 
-Working on machine learning and data-driven solutions in an EdTech environment.
+<div align="center">
+<img src="./tech-orbit.svg" width="480" alt="Animated Tech Orbit" />
+</div>
 
-**Areas of contribution**
 
-* Machine learning model development and evaluation
-* Data preparation and feature engineering
-* Data pipeline development
-* NLP and LLM-related features
-* Supporting deployment-oriented ML workflows
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
----
+### 💻 Live Terminal Session
 
-## Data Scientist — Tata Consultancy Services
+<div align="center">
+<img src="./Terminal animation.svg" width="95%" alt="Animated Terminal" />
+</div>
 
-**2021 – 2025 · 3.8 Years**
 
-Worked on a Fortune 500 retail technology account, contributing to data science and machine learning initiatives across multiple business problems.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
-**Key areas**
-
-* Demand forecasting
-* Natural Language Processing
-* Computer Vision
-* Predictive modeling
-* Feature engineering
-* Data analysis and visualization
-* Model evaluation and optimization
-* Translating business requirements into machine learning solutions
-
-This experience gave me exposure to the practical challenges involved in applying machine learning to real business environments.
-
----
-
-# Selected Projects
-
-I build projects with an emphasis on **business context, engineering quality, reproducibility, and deployment**.
-
-## Customer Churn & Cohort LTV Prediction
-
-An end-to-end machine learning framework that combines **customer churn prediction with cohort-based Customer Lifetime Value analysis**.
-
-The project focuses on understanding customer behavior, identifying high-risk customers, segmenting users, and translating model outputs into business insights.
-
-**Highlights**
-
-* Customer segmentation
-* Churn prediction
-* Feature engineering
-* Cohort analysis
-* LTV modeling
-* Business-oriented analysis
-
-**Stack**
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
-
-[View Repository](https://github.com/BhimAIEngineer/churn-ltv-framework)
-
----
-
-## Search Algorithm A/B Testing Framework
-
-An experimentation framework designed to evaluate whether a new search ranking algorithm actually improves user behavior.
-
-Rather than relying on a single statistical test, the project incorporates experiment validation and multiple statistical techniques.
-
-**Includes**
-
-* SRM analysis
-* CUPED variance reduction
-* Bootstrap confidence intervals
-* Welch's t-test
-* Mann-Whitney U test
-* Chi-square testing
-* Experiment health checks
-* Interactive analysis
-
-**Stack**
-
-`Python` `Pandas` `SciPy` `Streamlit`
-
-[View Repository](https://github.com/BhimAIEngineer/ab-testing-framework)
-
----
-
-## Industrial Defect Detection System
-
-A computer vision system designed to identify manufacturing defects before products leave the production line.
-
-The project focuses not only on object detection, but also on how the model can be integrated into a deployable application.
-
-**Architecture includes**
-
-* YOLOv8 object detection
-* FastAPI inference service
-* Docker containerization
-* MLflow experiment tracking
-* CI/CD workflow
-* Streamlit monitoring interface
-
-**Stack**
-
-`YOLOv8` `FastAPI` `Docker` `MLflow` `Streamlit` `GitHub Actions`
-
-[View Repository](https://github.com/BhimAIEngineer/industrial-defect-detection)
-
----
-
-## Multi-Agent Healthcare Triage Assistant
-
-An ongoing project exploring how multiple specialized agents can collaborate on a complex workflow instead of relying on a single LLM prompt.
-
-The system uses LangGraph to orchestrate different stages of the workflow and combines image-based and tabular predictions with model explainability.
-
-**Focus**
-
-* Multi-agent orchestration
-* LLM workflows
-* Structured reasoning
-* Image and tabular ML
-* Explainable predictions
-
-**Stack**
-
-`LangGraph` `LLMs` `Agentic Workflows` `SHAP`
-
-[View Repository](https://github.com/BhimAIEngineer/healthcare-triage-agent)
-
----
-
-## Predictive Maintenance — Remaining Useful Life
-
-A predictive maintenance system built using NASA CMAPSS turbofan engine data to estimate **Remaining Useful Life (RUL)**.
-
-The project goes beyond model performance by incorporating a cost simulation to demonstrate the potential business value of predictive maintenance.
-
-**Focus**
-
-* Time-series modeling
-* RUL prediction
-* XGBoost
-* LSTM
-* Maintenance cost simulation
-* Model serving
-
-**Stack**
-
-`XGBoost` `LSTM` `FastAPI` `Streamlit`
-
-[View Repository](https://github.com/BhimAIEngineer/predictive-maintenance-rul)
-
----
-
-## Disease Prediction & Medical Diagnosis System
-
-A machine learning application combining image-based and tabular prediction models into a unified inference system.
-
-The project focuses on the engineering required to take ML models beyond experimentation.
-
-**Includes**
-
-* CNN-based image classification
-* ANN-based tabular prediction
-* SHAP-based explainability
-* FastAPI inference layer
-* Docker deployment
-* MLflow tracking
-* GitHub Actions
-
-**Stack**
-
-`ResNet50` `ANN` `SHAP` `FastAPI` `Docker` `MLflow` `GitHub Actions`
-
----
-
-# Technical Skills
-
-### Machine Learning
-
-`Scikit-learn` `XGBoost` `Feature Engineering` `Predictive Modeling` `Model Evaluation` `Statistical Analysis`
-
-### Deep Learning
-
-`PyTorch` `TensorFlow` `Keras` `CNN` `LSTM` `Transfer Learning`
-
-### Natural Language Processing
-
-`Hugging Face` `BERT` `NLTK` `Text Classification` `Embeddings`
-
-### Generative AI
-
-`LangChain` `LangGraph` `OpenAI API` `RAG` `FAISS` `ChromaDB` `Agentic Workflows`
-
-### Computer Vision
-
-`OpenCV` `YOLOv8` `Object Detection` `Image Classification` `Image Processing`
-
-### Data & Programming
-
-`Python` `SQL` `Pandas` `NumPy` `SciPy` `Matplotlib` `Seaborn`
-
-### MLOps & Deployment
-
-`FastAPI` `Docker` `MLflow` `GitHub Actions` `CI/CD` `REST APIs` `Model Deployment`
-
-### Cloud
-
-`AWS` `Google Cloud` `Microsoft Azure`
-
----
-
-# Engineering Philosophy
-
-I believe a machine learning project should demonstrate more than model accuracy.
-
-A useful ML system needs to answer questions such as:
-
-* What problem are we solving?
-* Is the data reliable?
-* How do we measure success?
-* Does the model generalize?
-* How will predictions be served?
-* How can experiments be reproduced?
-* What happens when the model reaches production?
-
-That is why I try to structure my projects around the complete lifecycle:
-
-```text
-Problem Definition
-       ↓
-Data Collection
-       ↓
-EDA & Validation
-       ↓
-Feature Engineering
-       ↓
-Model Development
-       ↓
-Experimentation
-       ↓
-Evaluation
-       ↓
-API / Inference
-       ↓
-Docker
-       ↓
-CI/CD
-       ↓
-Deployment
-```
-
----
-
-# Education
-
-### Master of Computer Applications — AI/ML Specialization
-
-**Uttaranchal University**
-2025 – Present
-
-Relevant areas:
-
-`Machine Learning` `Deep Learning` `NLP` `Python` `Data Visualization` `Information Retrieval` `Algorithms`
-
-### Bachelor of Science — Information Technology
-
-**University of Mumbai**
-2018 – 2021
-
-Relevant areas:
-
-`Data Structures` `DBMS` `OOP` `Computer Networks` `Operating Systems` `Web Technologies`
-
----
-
-# Problem Solving
-
-Alongside machine learning, I regularly practice **Data Structures and Algorithms** to strengthen problem-solving and programming fundamentals.
-
-[LeetCode Profile](https://leetcode.com/bhim-rajbhar)
-
----
-
-# Beyond the Notebook
-
-One of the areas I am particularly interested in is the transition from:
-
-**"The model works."**
-
-to:
-
-**"The system works."**
-
-That means thinking about APIs, testing, containers, experiment tracking, reproducibility, monitoring, scalability, and maintainability alongside model performance.
-
-This is the direction I am continuing to develop as I move toward **Machine Learning Engineering and Applied Data Science roles**.
-
----
-
-# Connect
-
-I am open to conversations around:
-
-* Machine Learning Engineering
-* Data Science
-* Applied Machine Learning
-* NLP
-* Computer Vision
-* Generative AI
-* MLOps
-* Research and technical collaboration
-
-**Email:** [bhimrajbhar.ai.engineer@gmail.com](mailto:bhimrajbhar.ai.engineer@gmail.com)
-
-**LinkedIn:** [linkedin.com/in/bhimaiengineer](https://linkedin.com/in/bhimaiengineer)
-
-**Portfolio:** [bhimaiengineer.github.io/bhim-portfolio](https://bhimaiengineer.github.io/bhim-portfolio/)
-
----
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-**Machine Learning · Data · Engineering**
+<img src="https://github-readme-stats.vercel.app/api?username=BhimAIEngineer&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=ffffff&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhimAIEngineer&theme=radical&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" alt="GitHub Streak" width="48%" />
 
-*Turning data and models into systems that can be used.*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhimAIEngineer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ffffff&langs_count=10" alt="Top Languages" width="45%" />
+<img src="https://github-profile-trophy.vercel.app/?username=BhimAIEngineer&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhimAIEngineer&bg_color=0D1117&color=00C9FF&line=00C9FF&point=FFFFFF&area=true&hide_border=true&area_color=2C5364" alt="GitHub Contribution Graph" width="95%" />
 
 </div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+<a href="https://leetcode.com/bhim-rajbhar">
+  <img src="https://leetcard.jacoblin.cool/bhim-rajbhar?theme=dark&font=Baloo%202&ext=heatmap&border=0&hide_border=true&bg_color=0D1117" alt="LeetCode Stats Card" width="95%" />
+</a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
+## 💼 Professional Experience
+
+```mermaid
+timeline
+    title Career Timeline
+    2021 – 2025 : Data Scientist @ TCS (Fortune 500 retail account)
+    2025 – Present : MCA, AI/ML Specialization @ Uttaranchal University
+    2026 – Present : ML Intern @ SmartED Innovations
+```
+
+| Role | Organization | Duration | Focus |
+|:---|:---|:---|:---|
+| 🟢 **ML Intern** | SmartED Innovations (EdTech, remote) | Jun 2026 – Present | ML model training, data pipelines, NLP/LLM features |
+| 🔵 **MCA, AI/ML Specialization** | Uttaranchal University | Aug 2025 – Present | Python, ML, Deep Learning, NLP, Data Viz |
+| 🟣 **Data Scientist** | TCS — Fortune 500 retail technology account | ~3.8 yrs, ended Jul 2025 | Demand forecasting, NLP, computer vision |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
+## 🛠️ Featured Projects
+
+<details open>
+<summary><b>👥 <a href="https://github.com/BhimAIEngineer/churn-ltv-framework">Customer Churn & Cohort LTV Prediction</a></b></summary>
+<br/>
+
+End-to-end ML framework for customer churn prediction and cohort-based Customer Lifetime Value estimation, focused on segmentation, retention analysis, and data-driven business insights.
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Feature Engineering` `Churn Prediction` `Cohort Analysis` `LTV Modeling`
+</details>
+
+<details>
+<summary><b>🧪 <a href="https://github.com/BhimAIEngineer/ab-testing-framework">Search Algorithm A/B Test — Impact Analysis Framework</a></b></summary>
+<br/>
+
+End-to-end experimentation framework for evaluating a new search ranking algorithm: statistical testing, experiment health checks, CUPED variance reduction, and interactive impact analysis.
+
+`Python` `Pandas` `SciPy` `Streamlit` `A/B Testing` `CUPED` `SRM Analysis` `Bootstrap CI` `Chi-Square` `Welch's t-test` `Mann-Whitney U`
+</details>
+
+<details>
+<summary><b>🏭 <a href="https://github.com/BhimAIEngineer/industrial-defect-detection">Industrial Defect Detection System</a></b></summary>
+<br/>
+
+Real-time computer vision system for catching manufacturing defects on the line before the part ships. Built with an object-detection pipeline, served via API, containerized, and tracked with an experiment-tracking layer — plus CI and a live dashboard.
+
+`YOLOv8` `FastAPI` `Docker` `MLflow` `CI/CD` `Streamlit`
+</details>
+
+<details>
+<summary><b>🏥 <a href="https://github.com/BhimAIEngineer/healthcare-triage-agent">Multi-Agent Healthcare Triage Assistant</a></b> — <i>in progress</i></summary>
+<br/>
+
+Cooperating LangGraph agents dividing triage work instead of a single monolithic prompt, combining image-based and tabular diagnosis into one system with explainable predictions.
+
+`LangGraph` `Agentic Workflows` `LLM Orchestration` `SHAP`
+</details>
+
+<details>
+<summary><b>✈️ <a href="https://github.com/BhimAIEngineer/predictive-maintenance-rul">Predictive Maintenance — Remaining Useful Life</a></b></summary>
+<br/>
+
+Remaining Useful Life prediction on NASA CMAPSS turbofan engine data, backed by a cost-simulation model showing the case for predictive over reactive maintenance.
+
+`XGBoost` `LSTM` `FastAPI` `Streamlit` `Cost Simulation`
+</details>
+
+<details>
+<summary><b>🩺 Disease Prediction & Medical Diagnosis System</b></summary>
+<br/>
+
+Production-grade system combining a CNN for image-based diagnosis with a custom ANN for tabular diagnosis, with explainability, an API layer, containerization, and CI.
+
+`ResNet50` `Custom ANN` `SHAP` `FastAPI` `Docker` `MLflow` `GitHub Actions`
+</details>
+
+<br/>
+
+## 🧰 Technical Skills
+
+**Data Science / Classical ML**
+![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-0d6efd?style=flat-square)
+![Scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Deep Learning**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+**NLP**
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![NLTK](https://img.shields.io/badge/-NLTK-306998?style=flat-square)
+![BERT](https://img.shields.io/badge/-BERT-FF6F61?style=flat-square)
+
+**Generative AI / Agents**
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-4B8BBE?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-4B8BBE?style=flat-square)
+
+**Computer Vision**
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**MLOps / Deployment**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Cloud**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
+## 🎓 Education
+
+| 🎯 Degree | 🏫 Institution | 📅 Year | 🧩 Highlights |
+|:---|:---|:---|:---|
+| **MCA (AI/ML Specialization)** | Uttaranchal University | 2025 – Present | `Python` `Machine Learning` `Deep Learning` `NLP` `Data Viz` `Advanced Java` `Information Retrieval` `Design & Analysis of Algorithms` |
+| **B.Sc - IT** | University of Mumbai | 2018 – 2021 | `Programming Fundamentals` `DBMS` `Data Structures` `Web Technologies` `OOP Concepts` `Computer Networks` `Operating Systems` `Software Engineering` |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
+
+
+## 🌟 Let's Connect!
+
+<div align="center">
+
+I'm always open to **collaborations**, **mentorship**, or **exciting opportunities** — feel free to reach out!
+
+<a href="mailto:bhimrajbhar.ai.engineer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/bhimaiengineer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/BhimAIEngineer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://kaggle.com/bhimaiengineer"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="https://leetcode.com/bhim-rajbhar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
+<br/>
+
+**"Building complete, deployable ML systems — one project at a time." ✨**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=150&section=footer" width="100%" />
