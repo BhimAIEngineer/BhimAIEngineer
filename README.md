@@ -71,7 +71,6 @@ I build complete, deployable ML systems rather than notebook-only experiments �
 <img src="./tech-orbit.svg" width="480" alt="Animated Tech Orbit" />
 </div>
 
-> *💡 Custom-built SVG (not a third-party badge). Place `tech-orbit.svg` in the root of your `BhimAIEngineer/BhimAIEngineer` profile repo (not inside a subfolder) — this relative path works on whichever branch you're viewing.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
@@ -81,7 +80,6 @@ I build complete, deployable ML systems rather than notebook-only experiments �
 <img src="./Terminal animation.svg" width="95%" alt="Animated Terminal" />
 </div>
 
-> *💡 Custom-built SVG. Place `Terminal animation.svg` in the root of your `BhimAIEngineer/BhimAIEngineer` profile repo (not inside a subfolder) — this relative path works on whichever branch you're viewing.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=100%" width="100%"/>
 
